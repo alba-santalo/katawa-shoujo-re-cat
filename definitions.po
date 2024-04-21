@@ -1,0 +1,2173 @@
+# TODO: Translation updated at 2024-04-11 17:08 #|#|# # §translate ca strings: #|#|# # game/definitions.rpy:115
+msgid ""
+msgstr ""
+"Language: ca\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid " (replay)"
+msgstr " (repetició)"
+
+# game/definitions.rpy:119
+msgid "No scene"
+msgstr "Sense escena"
+
+# game/definitions.rpy:124
+msgid "Nothing"
+msgstr "Res"
+
+# game/definitions.rpy:173
+msgid "Playing history"
+msgstr "Historial de reproducció"
+
+# game/definitions.rpy:174
+msgid "Watching video"
+msgstr "S'està visualitzant el vídeo"
+
+# game/definitions.rpy:177
+msgid "In main menu"
+msgstr "Al menú Principal"
+
+# game/definitions.rpy:178
+msgid "Listening"
+msgstr "S'escolta"
+
+# game/definitions.rpy:223
+msgid "Act 1"
+msgstr "Acte 1"
+
+# game/definitions.rpy:223
+msgid "Prologue"
+msgstr "Pròleg"
+
+# game/definitions.rpy:223
+msgid "Out Cold"
+msgstr "Fred a fora"
+
+# game/definitions.rpy:223
+msgid ""
+"On a cold, snowy day, Hisao's dreams were about to be realized, only to be "
+"cut short by a sudden heart attack."
+msgstr "Un dia fred i nevat, els somnis d'en Hisao estaven a punt de fer-se realitat, però van ser interromputs per un atac de cor inesperat."
+
+# game/definitions.rpy:223
+msgid "Bundle of Hisao"
+msgstr "Paquet d'en Hisao"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao is told about Yamaku Academy, where he will likely spend the rest of "
+"his high school days."
+msgstr "En Hisao sent parlar de l'Acadèmia Yamaku, on segurament passarà la resta dels seus dies d'institut."
+
+# game/definitions.rpy:223
+msgid "Act 1: Life Expectancy"
+msgstr "Acte 1: Esperança de vida"
+
+# game/definitions.rpy:223
+msgid "Gateway Effect"
+msgstr "El punt de partida"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao steps into Yamaku Academy for the first time, and meets his homeroom "
+"teacher, Mutou."
+msgstr "En Hisao entra a l'Acadèmia Yamaku per primer cop, i coneix el seu tutor, en Mutou."
+
+# game/definitions.rpy:223
+msgid "Enter Stage Left"
+msgstr "Entrada en escena"
+
+# game/definitions.rpy:223
+msgid ""
+"Introductions to the class, and meeting with the class representative and "
+"her interpreter."
+msgstr "Presentació a la classe, i trobada amb la representant de classe i la seva intèrpret."
+
+# game/definitions.rpy:223
+msgid "In the Nursery"
+msgstr "A la infermeria"
+
+# game/definitions.rpy:223
+msgid ""
+"Misha and Shizune show Hisao the cafeteria, after which he goes to see the "
+"nurse."
+msgstr "La Misha i la Shizune mostren a en Hisao la cafeteria, després va a veure la infermera."
+
+# game/definitions.rpy:223
+msgid "Nobody's Room"
+msgstr "L'habitació de ningú"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao moves into his new room, meeting his hallmate Kenji in the process."
+msgstr "En Hisao es trasllada a la seva nova habitació, i durant el procés coneix en Kenji, el seu veí."
+
+# game/definitions.rpy:223
+msgid "Smalltalk"
+msgstr "Conversa banal"
+
+# game/definitions.rpy:223
+msgid ""
+"Shizune and Misha tell Hisao about the upcoming festival and invite him to "
+"lunch."
+msgstr "La Shizune i la Misha expliquen coses a en Hisao sobre el pròxim festival i el conviden a dinar."
+
+# game/definitions.rpy:223
+msgid "Risk vs. Reward"
+msgstr "Risc vs. recompensa"
+
+# game/definitions.rpy:223
+msgid "Shizune and Hisao battle for the world in a game of Risk."
+msgstr "La Shizune i en Hisao lluiten per conquerir el món en una partida de Risk."
+
+# game/definitions.rpy:223
+msgid "Pseudo Tea Cosy"
+msgstr "Un quasi te acollidor"
+
+# game/definitions.rpy:223
+msgid ""
+"Looking for the library, Hisao gets lost and finds Lilly in a disused "
+"classroom."
+msgstr "Tot buscant la biblioteca, en Hisao es perd i troba la Lilly dins una aula en desús."
+
+# game/definitions.rpy:223
+msgid "Shared Library"
+msgstr "La biblioteca compartida"
+
+# game/definitions.rpy:223
+msgid ""
+"Finally finding his way to the library, Hisao meets and scares off Hanako."
+msgstr "Finalment, quan troba el seu camí cap a la biblioteca, en Hisao es troba a la Hanako i l'espanta."
+
+# game/definitions.rpy:223
+msgid "Bizarre and Surreal"
+msgstr "Insòlit i surrealista"
+
+# game/definitions.rpy:223
+msgid "Kenji reveals the dark secrets of Yamaku."
+msgstr "En Kenji revela els secrets obscurs del Yamaku."
+
+# game/definitions.rpy:223
+msgid "Lunch Evolution Theory"
+msgstr "La teoria de l'evolució del dinar"
+
+# game/definitions.rpy:223
+msgid ""
+"Shizune and Misha badger Hisao into joining the Student Council before "
+"discussing lunch."
+msgstr "La Shizune i la Misha burxen a en Hisao perquè s'uneixi al Consell d'Estudiants abans de parlar del dinar."
+
+# game/definitions.rpy:223
+msgid "Short Sharp Shock"
+msgstr "Batzacada breu i brusca"
+
+# game/definitions.rpy:223
+msgid ""
+"On his way to lunch alongside Misha and Shizune, Hisao collides with Emi in "
+"the hallway."
+msgstr "De camí a dinar amb la Misha i la Shizune, en Hisao xoca amb l'Emi pel passadís."
+
+# game/definitions.rpy:223
+msgid "Meet Cute"
+msgstr "Una trobada adorable"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao collides with a rampaging Emi on his way to lunch with Hanako and "
+"Lilly."
+msgstr "En Hisao xoca amb una Emi salvatge en el seu camí per anar a dinar amb la Hanako i la Lilly."
+
+# game/definitions.rpy:223
+msgid "Detour Ahead"
+msgstr "Desviament a la vista"
+
+# game/definitions.rpy:223
+msgid ""
+"Shizune and Misha take Hisao to their favourite teahouse, the Shanghai."
+msgstr "La Shizune i la Misha porten a en Hisao a la seva casa de te preferida, la de Shanghai."
+
+# game/definitions.rpy:223
+msgid "Sip (Part 1)"
+msgstr "Glop (Part 1)"
+
+# game/definitions.rpy:223
+msgid "Hisao has a peaceful lunch with Lilly and Hanako."
+msgstr "En Hisao té un dinar tranquil amb la Lilly i la Hanako."
+
+# game/definitions.rpy:223
+msgid "It Builds Character"
+msgstr "Enfortir el caràcter"
+
+# game/definitions.rpy:223
+msgid ""
+"Mutou tries to have a D&M talk with Hisao, but Misha interrupts and puts "
+"Hisao to work."
+msgstr "En Mutou intenta tenir una conversa profunda amb en Hisao, però la Misha els interromp i posa a en Hisao a treballar."
+
+# game/definitions.rpy:223
+msgid "A Private Lunch"
+msgstr "Un dinar privat"
+
+# game/definitions.rpy:223
+msgid ""
+"Searching for supplies, Hisao happens across a strange girl in the art room."
+msgstr "Buscant subministraments, en Hisao topa amb una noia estranya a la sala d'art."
+
+# game/definitions.rpy:223
+msgid "Waylay"
+msgstr "Emboscada"
+
+# game/definitions.rpy:223
+msgid "While helping Rin carry some paint, Hisao is quizzed by the nurse."
+msgstr "Mentre ajuda la Rin a portar pintura, una infermera interroga en Hisao."
+
+# game/definitions.rpy:223
+msgid "The Other Green"
+msgstr "L'altre verd"
+
+# game/definitions.rpy:223
+msgid "Hisao watches Rin paint her mural."
+msgstr "En Hisao mira com la Rin pinta el seu mural."
+
+# game/definitions.rpy:223
+msgid "The Running Girl"
+msgstr "La corredora"
+
+# game/definitions.rpy:223
+msgid ""
+"When attempting to do some morning exercise, Hisao meets Emi at the running "
+"track."
+msgstr "Quan intenta fer algun exercici matinal, en Hisao es troba amb l'Emi a la pista."
+
+# game/definitions.rpy:223
+msgid "Soap"
+msgstr "Sabó"
+
+# game/definitions.rpy:223
+msgid "Kenji ambushes Hisao in the shower in an attempt to get some cash."
+msgstr "En Kenji para una emboscada a en Hisao a la dutxa amb la intenció d'obtenir diners."
+
+# game/definitions.rpy:223
+msgid "Cold War"
+msgstr "Guerra freda"
+
+# game/definitions.rpy:223
+msgid "Shizune and Lilly face off over budget requests."
+msgstr "La Shizune i la Lilly s'encaren per les peticions pressupostàries."
+
+# game/definitions.rpy:223
+msgid "Proof of Competency"
+msgstr "Prova de competència"
+
+# game/definitions.rpy:223
+msgid ""
+"Shizune and Misha assault Hisao in an attempt to get him to join the Student"
+" Council."
+msgstr "La Shizune i la Misha assalten en Hisao amb la intenció que s'uneixi al Consell d'Estudiants."
+
+# game/definitions.rpy:223
+msgid "Event Horizon"
+msgstr "Horitzó d'esdeveniments"
+
+# game/definitions.rpy:223
+msgid "Above and Beyond"
+msgstr "Més enllà"
+
+# game/definitions.rpy:223
+msgid "Hisao gets a lecture about the noble duties of a Student Council."
+msgstr "En Hisao rep un sermó sobre les nobles responsabilitats del Consell d'Estudiants."
+
+# game/definitions.rpy:223
+msgid "Paint by Numbers"
+msgstr "Pintura per números"
+
+# game/definitions.rpy:223
+msgid ""
+"Hanako and Hisao lend a hand to Lilly's class by volunteering to help build "
+"their stall."
+msgstr "La Hanako i en Hisao donen un cop de mà a la classe de la Lilly com a voluntaris per ajudar-los a construir la seva parada."
+
+# game/definitions.rpy:223
+msgid "Things You Can Do"
+msgstr "Coses que pots fer"
+
+# game/definitions.rpy:223
+msgid ""
+"After escaping from the clutches of Shizune and Misha, Hisao helps out Rin "
+"again."
+msgstr "Després d'escapar de les urpes de la Shizune i la Misha, en Hisao ajuda de nou a la Rin."
+
+# game/definitions.rpy:223
+msgid "Exercise"
+msgstr "Exercici"
+
+# game/definitions.rpy:223
+msgid "Another early morning sees Hisao running at the track with Emi."
+msgstr "Una altra matí en què en Hisao corre per la pista amb l'Emi."
+
+# game/definitions.rpy:223
+msgid "Invisible Hat"
+msgstr "Barret invisible"
+
+# game/definitions.rpy:223
+msgid "Kenji gives Hisao a few insider tips on how to socialize."
+msgstr "En Kenji li dona alguns consells d'expert a en Hisao sobre com socialitzar."
+
+# game/definitions.rpy:223
+msgid "Home Field Advantage"
+msgstr "Avantatges de jugar a casa"
+
+# game/definitions.rpy:223
+msgid "Shizune and Misha hijack Hisao as he leaves his room for class."
+msgstr "La Shizune i la Misha segresten a en Hisao mentre surt de la seva habitació per anar a classe."
+
+# game/definitions.rpy:223
+msgid "No Recovery"
+msgstr "Sense recuperació"
+
+# game/definitions.rpy:223
+msgid "Hisao struggles to class after his hijacking by the Student Council."
+msgstr "En Hisao s'afanya per arribar a classes després del seu segrest per part del Consell d'Estudiants."
+
+# game/definitions.rpy:223
+msgid "Slow Recovery"
+msgstr "Recuperació lenta"
+
+# game/definitions.rpy:223
+msgid "Recovering from his heart flutter, Hisao eventually makes it to class."
+msgstr "Tot refent-se de les palpitacions del seu cor, en Hisao aconsegueix arribar a classe."
+
+# game/definitions.rpy:223
+msgid "No Free Lunch"
+msgstr "El dinar no és gratis"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao is escorted to the student council office for his first official day "
+"there."
+msgstr "Custodien en Hisao fins a la sala del consell estudiantil per al seu primer dia oficial."
+
+# game/definitions.rpy:223
+msgid "Foot and Mouth"
+msgstr "Peu i boca"
+
+# game/definitions.rpy:223
+msgid "Emi drags Hisao to the roof to have lunch with Rin."
+msgstr "L'Emi arrossega en Hisao al terrat per dinar amb la Rin."
+
+# game/definitions.rpy:223
+msgid "Mind Your Step"
+msgstr "Vigila on trepitges"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
+msgstr "En Hisao i la Lilly van de compres, i en el camí de tornada es troben a la Rin molt confusa."
+
+# game/definitions.rpy:223
+msgid "Support"
+msgstr "Suport"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao has his first Saturday lesson, complete with a talking to from Mutou."
+msgstr "En Hisao té la seva primera classe en un dissabte, amb conversa amb en Mutou inclosa."
+
+# game/definitions.rpy:223
+msgid "An Aesthetics"
+msgstr "Una estètica"
+
+# game/definitions.rpy:223
+msgid ""
+"Emi finds Hisao slacking around after class and recruits him to help Rin "
+"once again."
+msgstr "L'Emi troba a en Hisao gandulejant després de classe i el recluta per ajudar una vegada més a la Rin."
+
+# game/definitions.rpy:223
+msgid "Creative Pain"
+msgstr "Dolor creatiu"
+
+# game/definitions.rpy:223
+msgid "Hisao meets the art teacher, Nomiya, as Rin paints her mural."
+msgstr "En Hisao coneix a la professora d'art, la Nomiya, mentre la Rin pinta el seu mural."
+
+# game/definitions.rpy:223
+msgid "Proper Exercise"
+msgstr "Exercici com Déu mana"
+
+# game/definitions.rpy:223
+msgid "Emi and Hisao discuss the importance of being in shape."
+msgstr "L'Emi i en Hisao discuteixen sobre la importància d'estar en forma."
+
+# game/definitions.rpy:223
+msgid "Sip (Part 2)"
+msgstr "Glop (Part 2)"
+
+# game/definitions.rpy:223
+msgid "In an attempt to kill time, Hisao goes for a walk around the school."
+msgstr "Amb la intenció de matar l'estona, en Hisao va a fer una passejada per l'escola."
+
+# game/definitions.rpy:223
+msgid "Shanghaied"
+msgstr "Shanghaied"
+
+# game/definitions.rpy:223
+msgid "Tea, cake and competitions with Shizune and Misha at the Shanghai."
+msgstr "Te, pastís i rivalitat amb la Shizune i la Misha al Shanghai."
+
+# game/definitions.rpy:223
+msgid "Quiet"
+msgstr "Silenci"
+
+# game/definitions.rpy:223
+msgid "Hanako and Hisao read books for the festival."
+msgstr "La Hanako i en Hisao llegeixen llibres per al festival."
+
+# game/definitions.rpy:223
+msgid "Don't Panic"
+msgstr "No perdis la calma"
+
+# game/definitions.rpy:223
+msgid ""
+"After waking up on the day of the festival, Hisao is greeted by a ranting "
+"Kenji."
+msgstr "Després de despertar-se el dia del festival, en Kenji saluda a en Hisao amb grandiloqüència."
+
+# game/definitions.rpy:223
+msgid "Is Carnival!"
+msgstr "És Carnestoltes!"
+
+# game/definitions.rpy:223
+msgid ""
+"Emi catches Hisao eating fried food and makes him accompany her as "
+"punishment."
+msgstr "L'Emi atrapa a en Hisao menjant fregits i fa que l'acompanyi com a càstig."
+
+# game/definitions.rpy:223
+msgid "Clouds in My Head"
+msgstr "Núvols al cap"
+
+# game/definitions.rpy:223
+msgid "Hisao keeps Rin and her now-finished mural company."
+msgstr "En Hisao fa companyia a la Rin i al seu finalment acabat mural."
+
+# game/definitions.rpy:223
+msgid "Promise of Time"
+msgstr "Promesa de temps"
+
+# game/definitions.rpy:223
+msgid "After a trying morning at her stall, Hisao takes Lilly to find Hanako."
+msgstr "Després d'un matí feixuc a la seva parada, en Hisao porta a la Lilly a trobar a la Hanako."
+
+# game/definitions.rpy:223
+msgid ""
+"Unable to help Lilly at her stall, Hisao searches for Hanako at the "
+"festival."
+msgstr "Incapaç d'ajudar a la Lilly a la seva parada, en Hisao busca la Hanako al festival."
+
+# game/definitions.rpy:223
+msgid "Movement"
+msgstr "Moviment"
+
+# game/definitions.rpy:223
+msgid ""
+"Lilly finishes her duties and treats Hanako and Hisao to tea at the "
+"Shanghai."
+msgstr "La Lilly acaba les seves obligacions i obsequia a la Hanako i en Hisao amb te al Shanghai."
+
+# game/definitions.rpy:223
+msgid "Throwing Balls"
+msgstr "Llançar pilotes"
+
+# game/definitions.rpy:223
+msgid "True to his word, Hisao spends the day with Shizune and Misha."
+msgstr "Fidel a la seva paraula, en Hisao passa el dia amb la Shizune i la Misha."
+
+# game/definitions.rpy:223
+msgid "The Deep End"
+msgstr "Tocar fons"
+
+# game/definitions.rpy:223
+msgid ""
+"Kenji and Hisao share a manly picnic on the roof instead of going to the "
+"festival."
+msgstr "En Kenji i en Hisao comparteixen un pícnic d'homes al terrat, en lloc d'anar al festival."
+
+# game/definitions.rpy:223
+msgid "Emi"
+msgstr "L'Emi"
+
+# game/definitions.rpy:223
+msgid "Act 2: Form"
+msgstr "Acte 2: Formulari"
+
+# game/definitions.rpy:223
+msgid "Morning Run"
+msgstr "Cursa de matí"
+
+# game/definitions.rpy:223
+msgid "The first of Hisao's many morning runs with Emi."
+msgstr "El primer dels molts matins que en Hisao corre amb l'Emi."
+
+# game/definitions.rpy:223
+msgid "Clouds, Time Travel, and Thou"
+msgstr "Núvols, viatges en el temps i tu"
+
+# game/definitions.rpy:223
+msgid ""
+"Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to"
+" come see the track meet."
+msgstr "Un altre dinar al terrat amb l'Emi i la Rin. En Hisao promet a l'Emi anar-la a veure a la cursa d'atletisme."
+
+# game/definitions.rpy:223
+msgid "Questions That Need Answering!"
+msgstr "Preguntes que necessiten resposta!"
+
+# game/definitions.rpy:223
+msgid ""
+"Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about "
+"her relationship with Rin."
+msgstr "Una conversa que no du enlloc entre l'Emi i en Hisao. En Hisao fa a l'Emi unes quantes preguntes més sobre la seva relació amb la Rin."
+
+# game/definitions.rpy:223
+msgid "Second Time's the Worst"
+msgstr "La segona vegada és la pitjor"
+
+# game/definitions.rpy:223
+msgid ""
+"The second morning run. Hisao is almost dragged kicking and screaming around"
+" the track."
+msgstr "El segon matí que va a córrer. En Hisao gairebé s'arrossega resistint-se i cridant al voltant de la pista."
+
+# game/definitions.rpy:223
+msgid "An Apple a Day"
+msgstr "Una poma al dia"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao pays a visit to the nurse along with Emi, finding out that the two "
+"have known each other for a while."
+msgstr "En Hisao fa una visita a la infermera juntament amb l'Emi, i descobreix que fa temps es van conèixer."
+
+# game/definitions.rpy:223
+msgid "Track Meeting"
+msgstr "Cursa d'atletisme"
+
+# game/definitions.rpy:223
+msgid ""
+"The day of the track meet. Another facet of Emi's personality is revealed."
+msgstr "Arriba el dia de la cursa. Descobreix una altra faceta de la personalitat d'Emi."
+
+# game/definitions.rpy:223
+msgid "Down that Medicine Now"
+msgstr "Pren-te aquesta medicina ja"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao mentions a pain in his chest during a visit to the nurse and receives "
+"a lecture."
+msgstr "En Hisao esmenta un dolor al pit durant una visita a la infermera i rep un sermó."
+
+# game/definitions.rpy:223
+msgid "Piracy on the High Seas"
+msgstr "Pirateria en alta mar"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao discusses his future as a pirate with Emi on the rooftop, then a "
+"letter from Iwanako spoils his day."
+msgstr "En Hisao discuteix el seu futur com a pirata amb l'Emi al terrat, després una carta de l'Iwanako espatlla el dia."
+
+# game/definitions.rpy:223
+msgid "Famous Last Words"
+msgstr "Unes famoses últimes paraules"
+
+# game/definitions.rpy:223
+msgid "Emi and Rin take Hisao along for a picnic, soon to be spoiled by rain."
+msgstr "L'Emi i la Rin porten a en Hisao a fer un pícnic, que es frustra aviat per la pluja."
+
+# game/definitions.rpy:223
+msgid "Tracking Absences"
+msgstr "Seguiment d'absències"
+
+# game/definitions.rpy:223
+msgid "Hisao goes to the track as usual, but Emi is missing."
+msgstr "En Hisao va a la pista com sempre, però l'Emi no hi és."
+
+# game/definitions.rpy:223
+msgid "Dropping By"
+msgstr "Deixar-se anar"
+
+# game/definitions.rpy:223
+msgid ""
+"A bedside visit for a sick Emi, which quickly changes to something else "
+"entirely."
+msgstr "Una visita a l'Emi malalt, que canvia ràpidament a una altra cosa."
+
+# game/definitions.rpy:223
+msgid "The First Morning After"
+msgstr "El primer matí del dia següent"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao reminisces about last evening, deciding to do something to help Emi."
+msgstr "En Hisao recorda l'última nit, i decideix fer alguna cosa per ajudar a l'Emi."
+
+# game/definitions.rpy:223
+msgid "The (Real) Beginning"
+msgstr "El (veritable) començament"
+
+# game/definitions.rpy:223
+msgid "Another lunchtime on the rooftop, sans Rin."
+msgstr "Una altra hora de dinar al terrat, sense la Rin."
+
+# game/definitions.rpy:223
+msgid "Act 3: Perspective"
+msgstr "Acte 3: Perspectiva"
+
+# game/definitions.rpy:223
+msgid "Eet Ees… Scienca"
+msgstr "Eet Ees... Scienca"
+
+# game/definitions.rpy:223
+msgid "Mutou pulls Hisao into a short discussion about his future."
+msgstr "En Mutou arrossega a en Hisao cap a una breu conversa sobre el seu futur."
+
+# game/definitions.rpy:223
+msgid "Definitions"
+msgstr "Definicions"
+
+# game/definitions.rpy:223
+msgid ""
+"Emi and Hisao attempt another picnic, this time without any intervention "
+"from Mother Nature."
+msgstr "L'Emi i en Hisao intenten un altre pícnic, aquesta vegada sense cap intervenció de la Mare Naturalesa."
+
+# game/definitions.rpy:223
+msgid "Invisible Rock"
+msgstr "Rock invisible"
+
+# game/definitions.rpy:223
+msgid ""
+"Back to the track in the morning, with business as usual… or so it seems."
+msgstr "De tornada a la pista pel matí, tot com de costum... o això sembla."
+
+# game/definitions.rpy:223
+msgid "Lunch and Science"
+msgstr "Dinar i ciència"
+
+# game/definitions.rpy:223
+msgid "Hisao sees Mutou again about his future in the sciences."
+msgstr "En Hisao torna a visitar en Mutou per parlar sobre el seu futur en les ciències."
+
+# game/definitions.rpy:223
+msgid "Up, Down, and Up Again"
+msgstr "A dalt, a baix i a dalt de nou"
+
+# game/definitions.rpy:223
+msgid ""
+"A frantic call from Emi brings Hisao to her room, where two surprises await "
+"him."
+msgstr "Una trucada frenètica de l'Emi porta a en Hisao a la seva habitació, on li esperen dues sorpreses."
+
+# game/definitions.rpy:223
+msgid "Storage Space"
+msgstr "Espai d'emmagatzematge"
+
+# game/definitions.rpy:223
+msgid "Emi coaxes Hisao into the track storage shed."
+msgstr "L'Emi fa anar a en Hisao al cobert d'emmagatzematge d'atletisme."
+
+# game/definitions.rpy:223
+msgid "After-School Plans"
+msgstr "Plans després de classe"
+
+# game/definitions.rpy:223
+msgid "Emi has a serious talk with Hisao about the incoming exams."
+msgstr "L'Emi té una xerrada seriosa amb en Hisao sobre els exàmens que venen."
+
+# game/definitions.rpy:223
+msgid "Detached"
+msgstr "Separat"
+
+# game/definitions.rpy:223
+msgid "Hisao broods about his relationship with Emi."
+msgstr "En Hisao parla de la seva relació amb l'Emi."
+
+# game/definitions.rpy:223
+msgid "Phantom Pain"
+msgstr "Dolor fantasma"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao's attempt to show Emi his concern doesn't go nearly as well as he "
+"hoped."
+msgstr "L'intent d'en Hisao de mostrar a l'Emi la seva preocupació no va tan bé com esperava."
+
+# game/definitions.rpy:223
+msgid "Debate Expresses Doubt"
+msgstr "El debat expressa el dubte"
+
+# game/definitions.rpy:223
+msgid "Hisao is confused by Emi's behavior and by an invitation to her house."
+msgstr "En Hisao està confús pel comportament de l'Emi i per una invitació a casa seva."
+
+# game/definitions.rpy:223
+msgid "Guess Who's Coming… Never Mind"
+msgstr "Endevina qui ve... No importa"
+
+# game/definitions.rpy:223
+msgid "Dinner at the Ibarazaki's."
+msgstr "Sopar a la casa dels Ibarazaki."
+
+# game/definitions.rpy:223
+msgid "Instant Replay"
+msgstr "Repetició instantània"
+
+# game/definitions.rpy:223
+msgid "Things finally come to a head at the track."
+msgstr "Les coses finalment arriben a un punt crític a la pista."
+
+# game/definitions.rpy:223
+msgid "Act 4: Motion"
+msgstr "Acte 4: Moviment"
+
+# game/definitions.rpy:223
+msgid "A Swing and a Miss"
+msgstr "Un gronxador i una senyoreta"
+
+# game/definitions.rpy:223
+msgid "Hisao wonders if Emi is purposefully avoiding him."
+msgstr "En Hisao es pregunta si l'Emi l'està evitant deliberadament."
+
+# game/definitions.rpy:223
+msgid "Saving Throw"
+msgstr "Tirada de salvació"
+
+# game/definitions.rpy:223
+msgid "Things finally come to a head on the rooftop."
+msgstr "Les coses finalment arriben a un punt crític al terrat."
+
+# game/definitions.rpy:223
+msgid "Whispers of the Past"
+msgstr "Murmuris del passat"
+
+# game/definitions.rpy:223
+msgid "Hisao, Emi and her mom go for a graveside visit."
+msgstr "En Hisao, l'Emi i la seva mare van a visitar una tomba."
+
+# game/definitions.rpy:223
+msgid "Hooray for Socks"
+msgstr "Visca els mitjons"
+
+# game/definitions.rpy:223
+msgid "Sex, drugs, but no rock and roll."
+msgstr "Sexe, drogues, però sense rock and roll."
+
+# game/definitions.rpy:223
+msgid "Clean Teeth"
+msgstr "Dents netes"
+
+# game/definitions.rpy:223
+msgid "Hisao wakes up, finding Emi sleeping next to him."
+msgstr "En Hisao es desperta, troba a l'Emi dormint al seu costat."
+
+# game/definitions.rpy:223
+msgid "Hanako"
+msgstr "La Hanako"
+
+# game/definitions.rpy:223
+msgid "Act 2: Hide and Seek"
+msgstr "Acte 2: Amagar i cercar"
+
+# game/definitions.rpy:223
+msgid "To Town, To Town"
+msgstr "A la ciutat, a la ciutat"
+
+# game/definitions.rpy:223
+msgid "A shopping trip at the convenience store with Hanako."
+msgstr "Un viatge de compres a la botiga de conveniència amb la Hanako."
+
+# game/definitions.rpy:223
+msgid "Tea Leaves"
+msgstr "Fulles de te"
+
+# game/definitions.rpy:223
+msgid "Hanako invites Hisao to have lunch with her and Lilly."
+msgstr "La Hanako convida a en Hisao a dinar amb ella i la Lilly."
+
+# game/definitions.rpy:223
+msgid "Office Confessional"
+msgstr "Confessionari d'oficina"
+
+# game/definitions.rpy:223
+msgid "Hisao and Misha discuss the plight of Hanako."
+msgstr "En Hisao i la Misha discuteixen sobre la difícil situació de la Hanako."
+
+# game/definitions.rpy:223
+msgid "Chess and Slides"
+msgstr "Escacs i tobogans"
+
+# game/definitions.rpy:223
+msgid "Hisao ditches the Student Council to read with Hanako."
+msgstr "En Hisao se salta el Consell d'Estudiants per llegir amb la Hanako."
+
+# game/definitions.rpy:223
+msgid "Rise and Shine"
+msgstr "Aixeca't i brilla"
+
+# game/definitions.rpy:223
+msgid "An invitation from Lilly to a tea party after hours."
+msgstr "Una invitació de la Lilly a una festa del te fora-d'hores."
+
+# game/definitions.rpy:223
+msgid "Mad Hatter"
+msgstr "El barreter boig"
+
+# game/definitions.rpy:223
+msgid "Hanako, Hisao and Lilly meet together to have tea in Lilly's room."
+msgstr "La Hanako, en Hisao i la Lilly es reuneixen per prendre te a l'habitació de la Lilly."
+
+# game/definitions.rpy:223
+msgid "Small Change"
+msgstr "Un petit canvi"
+
+# game/definitions.rpy:223
+msgid "Kenji is forced to repay his loan."
+msgstr "En Kenji es veu obligat a pagar el préstec."
+
+# game/definitions.rpy:223
+msgid "Absenteeism"
+msgstr "Absentisme"
+
+# game/definitions.rpy:223
+msgid "Hisao and Lilly discuss Hanako's school attendance."
+msgstr "En Hisao i la Lilly parlen de l'assistència a l'escola de la Hanako."
+
+# game/definitions.rpy:223
+msgid "Equivalent Exchange"
+msgstr "Intercanvi equivalent"
+
+# game/definitions.rpy:223
+msgid ""
+"In return for learning about his heart, Hanako reveals part of her past to "
+"Hisao."
+msgstr "A canvi de saber què li passa al cor, la Hanako revela part del seu passat a en Hisao."
+
+# game/definitions.rpy:223
+msgid "Act 3: Castling"
+msgstr "Acte 3: Enroc"
+
+# game/definitions.rpy:223
+msgid "Invitation"
+msgstr "Invitació"
+
+# game/definitions.rpy:223
+msgid ""
+"Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's "
+"birthday."
+msgstr "La Lilly troba a en Hisao netejant la sala del te i li parla de l'aniversari de la Hanako."
+
+# game/definitions.rpy:223
+msgid "Shady Encounter"
+msgstr "Una trobada tèrbola"
+
+# game/definitions.rpy:223
+msgid "An unexpected chat with Miki while reminiscing about the past."
+msgstr "Una conversa inesperada ambl a Miki mentre recordes el passat."
+
+# game/definitions.rpy:223
+msgid "Antiques and Pie"
+msgstr "Antiguitats i pastís"
+
+# game/definitions.rpy:223
+msgid "Lilly and Hisao shop for a present in the city."
+msgstr "La Lilly i en Hisao compren un regal a la ciutat."
+
+# game/definitions.rpy:223
+msgid "Falling"
+msgstr "Caiguda"
+
+# game/definitions.rpy:223
+msgid "Hanako has a panic attack during class."
+msgstr "La Hanako té un atac de pànic durant la classe."
+
+# game/definitions.rpy:223
+msgid "Treading Softly"
+msgstr "Camina a poc a poc"
+
+# game/definitions.rpy:223
+msgid "Lilly has bad news to discuss with Hisao and Hanako."
+msgstr "La Lilly explica males notícies a en Hisao i la Hanako."
+
+# game/definitions.rpy:223
+msgid "Reaching Out"
+msgstr "Ja hi arribes"
+
+# game/definitions.rpy:223
+msgid "Hisao reaches out to a withdrawn Hanako."
+msgstr "En Hisao estira la mà a una Hanako introvertida."
+
+# game/definitions.rpy:223
+msgid "One More Year"
+msgstr "Un any més"
+
+# game/definitions.rpy:223
+msgid ""
+"Our trio is joined by an unexpected guest as they celebrate Hanako's "
+"birthday party."
+msgstr "Al nostre trio se li suma un convidat inesperat mentre celebren la festa d'aniversari de la Hanako."
+
+# game/definitions.rpy:223
+msgid "One Piece of Paper"
+msgstr "Una bocí de paper"
+
+# game/definitions.rpy:223
+msgid "Hisao enjoys his first hangover, before receiving a troubling letter."
+msgstr "En Hisao gaudeix de la seva primera ressaca, abans de rebre una carta preocupant."
+
+# game/definitions.rpy:223
+msgid "Stripes and Solids"
+msgstr "Ratlles i sòlids"
+
+# game/definitions.rpy:223
+msgid "Heart-to-heart during a game of pool."
+msgstr "Cor a cor durant una partida de billar."
+
+# game/definitions.rpy:223
+msgid "Beginning of the End"
+msgstr "L'inici del final"
+
+# game/definitions.rpy:223
+msgid "Lilly's departure for her trip."
+msgstr "La Lilly marxa de viatge."
+
+# game/definitions.rpy:223
+msgid "Act 4: Scars"
+msgstr "Acte 4: Cicatrius"
+
+# game/definitions.rpy:223
+msgid "Truancy"
+msgstr "Falta d'assistència no justificada"
+
+# game/definitions.rpy:223
+msgid ""
+"Lunch with the Student Council and worry about Hanako shutting herself in."
+msgstr "Dinar amb el Consell d'Estudiants i preocupat que la Hanako es tanqui."
+
+# game/definitions.rpy:223
+msgid "Faraway Presence"
+msgstr "Presència llunyana"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao phones Lilly for advice after Hanako secludes herself for another day."
+msgstr "En Hisao truca a la Lilly per demanar consell després que la Hanako s'apartés l'altre dia."
+
+# game/definitions.rpy:223
+msgid "Misstep"
+msgstr "Pas en fals"
+
+# game/definitions.rpy:223
+msgid "Hisao tries to pull Hanako out of her room, with startling results."
+msgstr "En Hisao intenta treure a la Hanako de la seva habitació, amb resultats inesperats."
+
+# game/definitions.rpy:223
+msgid "Cut Petals"
+msgstr "Tallar pètals"
+
+# game/definitions.rpy:223
+msgid "Hisao finds his future relationship with Hanako prematurely ended."
+msgstr "En Hisao acaba prematurament la seva futura relació amb la Hanako."
+
+# game/definitions.rpy:223
+msgid "Continuing Melody"
+msgstr "La melodia contínua"
+
+# game/definitions.rpy:223
+msgid "Hanako returns to class, to Hisao's relief."
+msgstr "La Hanako torna a classe, en Hisao està alleujat."
+
+# game/definitions.rpy:223
+msgid "Shanghai Studiousness"
+msgstr "Diligència al Shanghai"
+
+# game/definitions.rpy:223
+msgid ""
+"Attempting to avoid distractions, Hisao tries studying at the Shanghai."
+msgstr "Per intentar evitar distraccions, en Hisao es posa a estudiar al Shanghai."
+
+# game/definitions.rpy:223
+msgid "His Past"
+msgstr "El seu passat"
+
+# game/definitions.rpy:223
+msgid ""
+"In an attempt to come closer to Hanako, Hisao shares a part of his past with"
+" her."
+msgstr "En un intent d'acostar-se a la Hanako, en Hisao comparteix una part del seu passat amb ella."
+
+# game/definitions.rpy:223
+msgid "City Rendezvous"
+msgstr "Una cita a la ciutat"
+
+# game/definitions.rpy:223
+msgid "The two share a date in the city."
+msgstr "Els dos comparteixen una cita a la ciutat."
+
+# game/definitions.rpy:223
+msgid "Whispered Touch"
+msgstr "Contacte xiuxiuejat"
+
+# game/definitions.rpy:223
+msgid "Hisao and Hanako spend the night together."
+msgstr "En Hisao i la Hanako passen la nit junts."
+
+# game/definitions.rpy:223
+msgid "Indeterminate Future"
+msgstr "Futur indeterminat"
+
+# game/definitions.rpy:223
+msgid "The events of the previous night weigh heavily on Hisao."
+msgstr "Els esdeveniments de la nit anterior pesen molt sobre en Hisao."
+
+# game/definitions.rpy:223
+msgid "Adulthood"
+msgstr "Maduresa"
+
+# game/definitions.rpy:223
+msgid "The end of two children, the beginning of two adults."
+msgstr "El final de dos nens, l'inici de dos adults."
+
+# game/definitions.rpy:223
+msgid "Lilly"
+msgstr "La Lilly"
+
+# game/definitions.rpy:223
+msgid "Act 2: Past"
+msgstr "Acte 2: Passat"
+
+# game/definitions.rpy:223
+msgid "Earl Grey"
+msgstr "Earl Grey"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering"
+" from the day before."
+msgstr "En Hisao comparteix el primer de molts esmorzars amb la Hanako i la Lilly, recuperant-se del dia anterior."
+
+# game/definitions.rpy:223
+msgid "A Pound Sterling"
+msgstr "Una lliura esterlina"
+
+# game/definitions.rpy:223
+msgid ""
+"Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and"
+" finds out a great deal more."
+msgstr "En Kenji pregunta sobre la nacionalitat de la Lilly, en Hisao decideix investigar i esbrina molt més."
+
+# game/definitions.rpy:223
+msgid "Presents and Presence"
+msgstr "Regals i Presència"
+
+# game/definitions.rpy:223
+msgid ""
+"While out in search of a present for Hanako, Lilly and Hisao meet Akira and "
+"her cousin."
+msgstr "Mentre busquen un regal per a la Hanako, la Lilly i en Hisao es troben l'Akira i el seu cosí."
+
+# game/definitions.rpy:223
+msgid "Unidentified Drinking Object"
+msgstr "Objecte per beure no identificat"
+
+# game/definitions.rpy:223
+msgid ""
+"The trio hold a birthday party for Hanako, interrupted by the surprise "
+"appearance of a sibling."
+msgstr "El trio celebra una festa d'aniversari per a la Hanako, interromput per l'aparició sorpresa d'un germà."
+
+# game/definitions.rpy:223
+msgid "The Day After"
+msgstr "L'endemà"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao and Lilly awaken and try to recuperate from the previous evening's "
+"events."
+msgstr "En Hisao i la Lilly es desperten i intenten recuperar-se dels esdeveniments de la nit anterior."
+
+# game/definitions.rpy:223
+msgid "A Brief History of Thyme"
+msgstr "Una breu història de la farigola"
+
+# game/definitions.rpy:223
+msgid "Hisao and Lilly go to get some groceries."
+msgstr "En Hisao i la Lilly van a buscar una mica de queviures."
+
+# game/definitions.rpy:223
+msgid "Little Wing"
+msgstr "Aleta"
+
+# game/definitions.rpy:223
+msgid "A shared lunch on the roof takes an unfortunate turn."
+msgstr "Un dinar compartit al terrat fa un gir desafortunat."
+
+# game/definitions.rpy:223
+msgid "Bon Voyage"
+msgstr "Bon viatge"
+
+# game/definitions.rpy:223
+msgid ""
+"Lilly and Akira get seen off as they leave for a trip to their family in "
+"Scotland."
+msgstr "Es veu com la Lilly i l'Akira marxen per fer un viatge a Escòcia amb la seva família."
+
+# game/definitions.rpy:223
+msgid "Act 3: Present"
+msgstr "Acte 3: Present"
+
+# game/definitions.rpy:223
+msgid "Day by Day"
+msgstr "Dia a dia"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao idly lets a day without Lilly slip by, having a talk with Mutou about "
+"Yamaku."
+msgstr "En Hisao deixa passar un dia sense que la Lilly s'escapi, fent una xerrada amb Mutou sobre el Yamaku."
+
+# game/definitions.rpy:223
+msgid "Minor Discord"
+msgstr "Un petit desacord"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent"
+" Hanako."
+msgstr "En Hisao dina amb en Kenji, i després entrega unes notes a la Hanako que està preocupantment silenciosa."
+
+# game/definitions.rpy:223
+msgid "Dissonance"
+msgstr "Discrepància"
+
+# game/definitions.rpy:223
+msgid ""
+"With Hanako withdrawing into herself completely, Hisao offers what little "
+"help he can before calling Lilly."
+msgstr "La Hanako es reclou completament en si mateixa, i en Hisao li ofereix la poca ajuda que pot abans de parlar amb la Lilly."
+
+# game/definitions.rpy:223
+msgid "A World Away"
+msgstr "A l'altra punta del món"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao's reassured mind begins to wonder about the relationship between he "
+"and Lilly."
+msgstr "La ment tranquil·la d'en Hisao comença a preguntar-se quina relació hi ha entre ell i la Lilly."
+
+# game/definitions.rpy:223
+msgid "Renewal"
+msgstr "Renovament"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from "
+"Scotland."
+msgstr "En Hisao, la Hanako i en Hideaki donen la benvinguda a l'Akira i la Lilly després de tornar d'Escòcia."
+
+# game/definitions.rpy:223
+msgid "Northern Sojourn"
+msgstr "Estança al nord"
+
+# game/definitions.rpy:223
+msgid "The trio begins their holiday in Hokkaido."
+msgstr "El trio comença les seves vacances a Hokkaidô."
+
+# game/definitions.rpy:223
+msgid "Prelude"
+msgstr "Preludi"
+
+# game/definitions.rpy:223
+msgid "A morning walk begins a chain of events."
+msgstr "Una caminada bon matí és l'inici d'una sèrie d'esdeveniments."
+
+# game/definitions.rpy:223
+msgid "Crescendo"
+msgstr "Crescendo"
+
+# game/definitions.rpy:223
+msgid ""
+"Lilly's true feelings are told in the endless gold of the wheat fields."
+msgstr "Els veritables sentiments de la Lilly afloren en un camp de blat que sembla un camp d'or."
+
+# game/definitions.rpy:223
+msgid "Diminuendo"
+msgstr "Diminuendo"
+
+# game/definitions.rpy:223
+msgid "Our couple shares their first night together."
+msgstr "La nostra parella comparteix la seva primera nit junts."
+
+# game/definitions.rpy:223
+msgid "Gray Outlook"
+msgstr "Una perspectiva grisa"
+
+# game/definitions.rpy:223
+msgid ""
+"Confined to the summerhouse, Lilly and Hisao are forced to come to terms "
+"with their relationship."
+msgstr "Confinats a la casa d'estiueig, la Lilly i en Hisao es veuen forçats a acceptar la seva relació."
+
+# game/definitions.rpy:223
+msgid "Rhapsody in Blue"
+msgstr "Rhapsody in Blue"
+
+# game/definitions.rpy:223
+msgid ""
+"A bathing Hisao reflects on where he and Lilly are in life, before being "
+"joined by someone."
+msgstr "Un bany on en Hisao reflexiona sobre en quin punt vital es troben ell i la Lilly, abans que s'hi uneixi algú."
+
+# game/definitions.rpy:223
+msgid "The Momentary Present"
+msgstr "El present fugaç"
+
+# game/definitions.rpy:223
+msgid ""
+"Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
+msgstr "De tornada al Yamaku, en Hisao i la Lilly parlen entre ells."
+
+# game/definitions.rpy:223
+msgid "Act 4: Future"
+msgstr "Acte 4: Futur"
+
+# game/definitions.rpy:223
+msgid "Slow Steps 'Fore a Waltz"
+msgstr "Passos lents abans d'un vals"
+
+# game/definitions.rpy:223
+msgid "Back at the school, the events of Hokkaido come to the fore."
+msgstr "De tornada a l'escola, es posa de manifest allò que va passar a Hokkaido."
+
+# game/definitions.rpy:223
+msgid "Pajamas and Suits"
+msgstr "Pijames i vestits"
+
+# game/definitions.rpy:223
+msgid ""
+"Settling back into daily life. Akira joins the trio during one of their tea "
+"parties."
+msgstr "Tornen a la vida quotidiana. L'Akira s'uneix al trio durant una de les seves festes de te."
+
+# game/definitions.rpy:223
+msgid "Correct Procedure"
+msgstr "Passos correctes"
+
+# game/definitions.rpy:223
+msgid "Hisao and Lilly arrange a date, before Akira swings by."
+msgstr "En Hisao i la Lilly organitzen una cita, abans que l'Akira arribi."
+
+# game/definitions.rpy:223
+msgid "Out and About"
+msgstr "D'un costat a l'altre"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao and Lilly go on their first date, finding out about each other's "
+"pasts."
+msgstr "En Hisao i la Lilly van en la seva primera cita, i descobreixen el passat de l'altre."
+
+# game/definitions.rpy:223
+msgid "A Morning's Reverie"
+msgstr "Un somni de matí"
+
+# game/definitions.rpy:223
+msgid "Hisao and Lilly discuss their ambitions for the future."
+msgstr "En Hisao i la Lilly discuteixen les seves ambicions per al futur."
+
+# game/definitions.rpy:223
+msgid "Blackout"
+msgstr "Llum apagat"
+
+# game/definitions.rpy:223
+msgid ""
+"The trio muse on the upcoming holidays, before Hisao experiences sight as "
+"Lilly does."
+msgstr "El trio reflexiona sobre les pròximes vacances, abans que en Hisao experimenti com hi veu la Lilly."
+
+# game/definitions.rpy:223
+msgid "Context"
+msgstr "Context"
+
+# game/definitions.rpy:223
+msgid "Hisao gets called out by Akira and the two talk about her sibling."
+msgstr "L'Akira crida en Hisao i els dos parlen de la seva germana."
+
+# game/definitions.rpy:223
+msgid "A Faraway Future"
+msgstr "Un futur llunyà"
+
+# game/definitions.rpy:223
+msgid "Lilly reveals her family's offer to join them in Scotland."
+msgstr "La Lilly li revela la proposta de la seva família perquè vagi a viure amb ells a Escòcia."
+
+# game/definitions.rpy:223
+msgid "Farewell"
+msgstr "A reveure"
+
+# game/definitions.rpy:223
+msgid "Farewells to Akira and Lilly the evening before they leave Japan."
+msgstr "S'acomiada de l'Akira i la Lilly la nit abans que marxin del Japó."
+
+# game/definitions.rpy:223
+msgid "False Cadence"
+msgstr "Entonació falsa"
+
+# game/definitions.rpy:223
+msgid "Hisao rushes to confront Lilly, realizing her conflict."
+msgstr "En Hisao es precipita a enfrontar-se amb la Lilly, i se n'adona del dilema que té ella."
+
+# game/definitions.rpy:223
+msgid "Under a Maudlin Sky"
+msgstr "Sota un cel de llagrimós"
+
+# game/definitions.rpy:223
+msgid ""
+"Waking in the hospital ward, Hisao struggles to come to terms with his life."
+msgstr "En Hisao es desperta a la sala de l'hospital, i lluita per adaptar-se a la seva vida."
+
+# game/definitions.rpy:223
+msgid "Under a Bright Sky"
+msgstr "Sota un cel brillant"
+
+# game/definitions.rpy:223
+msgid "Lilly rejoins Hisao, the two beginning their life together anew."
+msgstr "La Lilly torna amb en Hisao, els dos comencen la seva vida junts de nou."
+
+# game/definitions.rpy:223
+msgid "Forwards, with Gusto!"
+msgstr "Endavant, amb il·lusió!"
+
+# game/definitions.rpy:223
+msgid "Lilly and Hisao see off Akira."
+msgstr "La Lilly i en Hisao s'acomiaden de l'Akira."
+
+# game/definitions.rpy:223
+msgid "Rin"
+msgstr "La Rin"
+
+# game/definitions.rpy:223
+msgid "Act 2: Disconnect"
+msgstr "Acte 2: Desconnexió"
+
+# game/definitions.rpy:223
+msgid "A Wider Field of Vision"
+msgstr "Un camp de visió més ampli"
+
+# game/definitions.rpy:223
+msgid "Hisao spends a lunch break with Rin watching clouds on the rooftop."
+msgstr "En Hisao passa la pausa del dinar amb la Rin veient els núvols al terrat."
+
+# game/definitions.rpy:223
+msgid "Studies in Grayscale"
+msgstr "Estudi en escala de grisos"
+
+# game/definitions.rpy:223
+msgid ""
+"Rin and Hisao draw portraits of each other at his first art club meeting."
+msgstr "La Rin i en Hisao dibuixen retrats l'un de l'altre en la seva primera reunió del club d'art."
+
+# game/definitions.rpy:223
+msgid "Interstitial"
+msgstr "Intersticial"
+
+# game/definitions.rpy:223
+msgid "Kenji lends a “borrowed” book to Hisao."
+msgstr "En Kenji presta un llibre “avorrit” a en Hisao."
+
+# game/definitions.rpy:223
+msgid "Self Study"
+msgstr "Autodidacte"
+
+# game/definitions.rpy:223
+msgid "Misha and Shizune catch Hisao meditatively doodling during class."
+msgstr "La Misha i la Shizune atrapen en Hisao fent gargots amb expressió pensativa durant la classe."
+
+# game/definitions.rpy:223
+msgid "Hisao's Smile"
+msgstr "El somriure d'en Hisao"
+
+# game/definitions.rpy:223
+msgid "Rin talks to Hisao about his happy expressions, or lack of them."
+msgstr "La Rin parla amb en Hisao sobre les seves expressions de felicitat, o més aviat la seva manca."
+
+# game/definitions.rpy:223
+msgid "Things You Like"
+msgstr "Coses que t'agraden"
+
+# game/definitions.rpy:223
+msgid "Brief musings with Yuuko about books and Yamaku."
+msgstr "Unes reflexions breus amb la Yuuko sobre llibres i el Yamaku."
+
+# game/definitions.rpy:223
+msgid "Target Audience"
+msgstr "Públic destinatari"
+
+# game/definitions.rpy:223
+msgid ""
+"The day of the track meet. Facets of Emi's and Rin's personalities get "
+"revealed."
+msgstr "Arriba el dia de la cursa. Es revelen facetes de les personalitats de l'Emi i la Rin."
+
+# game/definitions.rpy:223
+msgid "Eternity In an Hour"
+msgstr "L'eternitat en una hora"
+
+# game/definitions.rpy:223
+msgid "Nomiya incites discussion of art during a club meeting."
+msgstr "En Nomiya incita una la discussió d'art durant una reunió del club."
+
+# game/definitions.rpy:223
+msgid "Underwater and a Maple with a Name"
+msgstr "Sota l'aigua i un auró amb nom"
+
+# game/definitions.rpy:223
+msgid ""
+"Rin leads Hisao into the woods, where they ponder their immediate future."
+msgstr "La Rin porta a en Hisao al bosc, on reflexionen sobre el seu futur imminent."
+
+# game/definitions.rpy:223
+msgid "Iwanako's Regret"
+msgstr "El penediment de l'Iwanako"
+
+# game/definitions.rpy:223
+msgid "A letter from Iwanako arrives."
+msgstr "Arriba una carta de l'Iwanako."
+
+# game/definitions.rpy:223
+msgid "In Her Own Image"
+msgstr "A imatge i semblança seva"
+
+# game/definitions.rpy:223
+msgid "Hisao pushes Rin to have her own art exhibition."
+msgstr "En Hisao empeny a la Rin a tenir la seva pròpia exposició d'art."
+
+# game/definitions.rpy:223
+msgid "Umbrella Logic Cake"
+msgstr "Pastís de lògica del paraigües"
+
+# game/definitions.rpy:223
+msgid "Emi, Hisao and Rin get rained on and seek refuge in the Shanghai."
+msgstr "L'Emi, en Hisao i la Rin es mullen i busquen refugi al Shanghai."
+
+# game/definitions.rpy:223
+msgid "Six Meters Closer to Heaven"
+msgstr "Sis metres més a prop del cel"
+
+# game/definitions.rpy:223
+msgid ""
+"Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
+msgstr "La Rin i en Hisao NO dinen al terrat, perquè clarament falta l'Emi."
+
+# game/definitions.rpy:223
+msgid "Indecision"
+msgstr "Indecisió"
+
+# game/definitions.rpy:223
+msgid "Emi gets rid of her cold, while Rin catches her own."
+msgstr "L'Emi es recupera del seu refredat, mentre la Rin n'agafa un."
+
+# game/definitions.rpy:223
+msgid "Signal Interference"
+msgstr "Interferència de senyal"
+
+# game/definitions.rpy:223
+msgid "Hisao goes visit Rin in her room."
+msgstr "En Hisao va a visitar la Rin a la seva habitació."
+
+# game/definitions.rpy:223
+msgid "Dandelions"
+msgstr "Pixallits"
+
+# game/definitions.rpy:223
+msgid "Conclusions get drawn on a hilltop."
+msgstr "S'arriba a les conclusions al cim d'un turó."
+
+# game/definitions.rpy:223
+msgid "Act 3: Distance"
+msgstr "Acte 3: Distància"
+
+# game/definitions.rpy:223
+msgid "22nd Corner"
+msgstr "22a cantonada"
+
+# game/definitions.rpy:223
+msgid "The art club team checks out the gallery for Rin's future exhibition."
+msgstr "L'equip del club d'art comprova la galeria per a la futura exposició de la Rin."
+
+# game/definitions.rpy:223
+msgid "The Scent of Light"
+msgstr "L'olor de la llum"
+
+# game/definitions.rpy:223
+msgid "Hisao happens upon a sleeping Rin in the art room."
+msgstr "En Hisao es topa amb la Rin dormint a la sala d'art."
+
+# game/definitions.rpy:223
+msgid "Things You Can't Give Up"
+msgstr "Coses que no pots deixar córrer"
+
+# game/definitions.rpy:223
+msgid "Emi and Hisao discuss Rin's personality."
+msgstr "L'Emi i en Hisao discuteixen sobre la personalitat de la Rin."
+
+# game/definitions.rpy:223
+msgid "BADAAN!"
+msgstr "BADAAN!"
+
+# game/definitions.rpy:223
+msgid "Yuuko's thoughts on motivation."
+msgstr "Els pensaments de la Yuuko sobre la motivació."
+
+# game/definitions.rpy:223
+msgid "Rose-Tinted Glasses"
+msgstr "Ulleres polaritzades de color rosa"
+
+# game/definitions.rpy:223
+msgid "Nomiya expounds at length about art as a career."
+msgstr "En Nomiya s'esten parlant de l'art com a carrera."
+
+# game/definitions.rpy:223
+msgid "The Edge of the World"
+msgstr "Els confins del món"
+
+# game/definitions.rpy:223
+msgid "Hisao confesses to Rin and gets shot down. Or does he?"
+msgstr "En Hisao es confessa a la Rin i el rebutja. O potser no?"
+
+# game/definitions.rpy:223
+msgid "The Context of Rin"
+msgstr "El context de la Rin"
+
+# game/definitions.rpy:223
+msgid "An awkward and silent afternoon at the atelier."
+msgstr "Una tarda incòmoda i silenciosa al taller."
+
+# game/definitions.rpy:223
+msgid "Fast Forward"
+msgstr "Avançament ràpid"
+
+# game/definitions.rpy:223
+msgid "The preparations for the exhibition settle into a strange routine."
+msgstr "Els preparatius per a l'exposició comencen a ser una estranya rutina."
+
+# game/definitions.rpy:223
+msgid "Self-Destruction"
+msgstr "Autodestrucció"
+
+# game/definitions.rpy:223
+msgid "Rin experiments with smoking to get a fresh look at creativity."
+msgstr "La Rin experimenta fumant una cigarreta per a tenir una nova perspectiva de la creativitat."
+
+# game/definitions.rpy:223
+msgid "Reverse Escapism"
+msgstr "Escapisme invers"
+
+# game/definitions.rpy:223
+msgid "Hisao takes Rin on a walk through the night streets."
+msgstr "En Hisao fa una passejada amb la Rin pels carrers nocturns."
+
+# game/definitions.rpy:223
+msgid "Boundless"
+msgstr "Sense límits"
+
+# game/definitions.rpy:223
+msgid "Sae and Nomiya give Hisao some insight on artists' lives."
+msgstr "La Sae i en Nomiya donen a en Hisao algunes idees sobre la vida dels artistes."
+
+# game/definitions.rpy:223
+msgid "Delirium"
+msgstr "Delirium"
+
+# game/definitions.rpy:223
+msgid "Hisao surprises a desperate Rin in the atelier."
+msgstr "En Hisao sorprèn la Rin desesperada al taller."
+
+# game/definitions.rpy:223
+msgid "Things You Hate"
+msgstr "Coses que odies"
+
+# game/definitions.rpy:223
+msgid "Unpleasant aftermath of an incredible night."
+msgstr "Una desagradable seqüela d'una nit increïble."
+
+# game/definitions.rpy:223
+msgid "Shards of Ire"
+msgstr "Estelles d'ira"
+
+# game/definitions.rpy:223
+msgid "The strained relationship between the two blows apart."
+msgstr "La relació tensa entre els dos s'acaba trencant."
+
+# game/definitions.rpy:223
+msgid "Act 4: Dream"
+msgstr "Acte 4: Somni"
+
+# game/definitions.rpy:223
+msgid "Illusions for People"
+msgstr "Il·lusions per la gent"
+
+# game/definitions.rpy:223
+msgid "Hisao talks about his misgivings to Nomiya, to little effect."
+msgstr "En Hisao parla dels seus mals pressentiments amb en Nomiya, no té gaire efecte."
+
+# game/definitions.rpy:223
+msgid "Demused"
+msgstr "Fins als nassos"
+
+# game/definitions.rpy:223
+msgid "Hisao's patience comes to an end."
+msgstr "A en Hisao se li acaba la paciència."
+
+# game/definitions.rpy:223
+msgid "The Scene"
+msgstr "L'escena"
+
+# game/definitions.rpy:223
+msgid "Meeting with Rin at the exhibition opening."
+msgstr "Trobada amb la Rin a la inauguració de l'exposició."
+
+# game/definitions.rpy:223
+msgid "Wavelength"
+msgstr "Longitud d'ona"
+
+# game/definitions.rpy:223
+msgid "Hisao lethargically whiles away the last day of exams."
+msgstr "En Hisao passa el darrer dia d'exàmens ensopit."
+
+# game/definitions.rpy:223
+msgid "Blue Period"
+msgstr "Període blau"
+
+# game/definitions.rpy:223
+msgid "A rainy day, the 22nd Corner, and a brief history of Picasso."
+msgstr "Un dia plujós, la 22a cantonada i la història de Picasso resumida."
+
+# game/definitions.rpy:223
+msgid "The World Only You Can See"
+msgstr "El món que només pots veure"
+
+# game/definitions.rpy:223
+msgid "Rin and Hisao part after the rain."
+msgstr "La Rin i en Hisao es separen després de la pluja."
+
+# game/definitions.rpy:223
+msgid "Desperate Glory"
+msgstr "La glòria desesperada"
+
+# game/definitions.rpy:223
+msgid "A frantic Nomiya queries Hisao about Rin's whereabouts."
+msgstr "En Nomiya, fora de si, pregunta a en Hisao si sap on és la Rin."
+
+# game/definitions.rpy:223
+msgid "Problems of Self-Referential Logic"
+msgstr "Problemes de la lògica autoreferencial"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao finds Rin in her hiding place, and convinces her to reconcile with "
+"Nomiya."
+msgstr "En Hisao troba la Rin en el seu amagatall, i la convenç per reconciliar-se amb en Nomiya."
+
+# game/definitions.rpy:223
+msgid "Measuring Shadows"
+msgstr "Medir les ombres"
+
+# game/definitions.rpy:223
+msgid "Rin's apology to the art teacher isn't well-received."
+msgstr "La disculpa de la Rin al professor d'art no és ben rebuda."
+
+# game/definitions.rpy:223
+msgid "Raison d'être"
+msgstr "Raison d'être"
+
+# game/definitions.rpy:223
+msgid "Hisao comforts an upset Rin."
+msgstr "En Hisao reconforta a la Rin, que està molesta."
+
+# game/definitions.rpy:223
+msgid "Without Breathing, Without a Sound"
+msgstr "Sense respiració, sense so"
+
+# game/definitions.rpy:223
+msgid "On the first day of summer vacation, Rin comes to Hisao's room."
+msgstr "El primer dia de vacances d'estiu, la Rin va a l'habitació d'en Hisao."
+
+# game/definitions.rpy:223
+msgid "Proof of Existence"
+msgstr "Prova de l'existència"
+
+# game/definitions.rpy:223
+msgid "Everything comes together on that dandelion-covered hilltop."
+msgstr "Tot pren forma en el turó que hi ha cobert de dents de lleó."
+
+# game/definitions.rpy:223
+msgid "Shizune"
+msgstr "La Shizune"
+
+# game/definitions.rpy:223
+msgid "Act 2: Learning to Read"
+msgstr "Acte 2: Aprendre a llegir"
+
+# game/definitions.rpy:223
+msgid "Message Passing"
+msgstr "S'està passant el missatge"
+
+# game/definitions.rpy:223
+msgid "Shizune and Hisao explore methods of communication."
+msgstr "La Shizune i en Hisao exploren mètodes de comunicació."
+
+# game/definitions.rpy:223
+msgid "Talk to the Hand"
+msgstr "Parla a la mà"
+
+# game/definitions.rpy:223
+msgid "Hisao begins studying a new language, and a tutor appears."
+msgstr "En Hisao comença a estudiar un nou idioma, i li apareix un tutor."
+
+# game/definitions.rpy:223
+msgid "Chinese Whispers"
+msgstr "Murmuris xinesos"
+
+# game/definitions.rpy:223
+msgid ""
+"Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into "
+"trouble in many forms."
+msgstr "En Kenji obliga a en Hisao a fer-li un favor, però aquest es troba amb tota mena de problemes."
+
+# game/definitions.rpy:223
+msgid "Advanced Game Theory"
+msgstr "Teoria de jocs avançada"
+
+# game/definitions.rpy:223
+msgid ""
+"RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new "
+"opponent makes her appearance."
+msgstr "El RISK ja no és suficient per satisfer la fam de la Shizune. I encara pitjor, apareix un nou oponent."
+
+# game/definitions.rpy:223
+msgid "Bread, Scissors, Paper"
+msgstr "Pa, paper, tisores"
+
+# game/definitions.rpy:223
+msgid ""
+"A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an "
+"object of extreme interest."
+msgstr "Una tarda d'oci es torna dramàtica quan de sobte un tros de pa es converteix en un objecte de gran interès."
+
+# game/definitions.rpy:223
+msgid "Interface"
+msgstr "Interfície"
+
+# game/definitions.rpy:223
+msgid "Shizune and Hisao find a connection."
+msgstr "La Shizune i en Hisao troben una connexió."
+
+# game/definitions.rpy:223
+msgid "Spring into Action"
+msgstr "Primavera en acció"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao has to mediate between Lilly and Shizune, but luckily things work out "
+"in the end."
+msgstr "En Hisao ha d'intercedir entre la Lilly i la Shizune, però, afortunadament, al final les coses funcionen."
+
+# game/definitions.rpy:223
+msgid "Past Imperfective"
+msgstr "Passat imperfectiu"
+
+# game/definitions.rpy:223
+msgid ""
+"The Student Council reminisces about past years while relaxing at the "
+"Shanghai."
+msgstr "El Consell d'Estudiants recorda històries antigues dels últims anys mentre es relaxa al Shanghai."
+
+# game/definitions.rpy:223
+msgid "When Stars Embrace"
+msgstr "Quan les estrelles s'abracen"
+
+# game/definitions.rpy:223
+msgid "It's finally time for Tanabata!"
+msgstr "Per fi arriba el Tanabata!"
+
+# game/definitions.rpy:223
+msgid "Act 3: Sleight of Hand"
+msgstr "Acte 3: Joc de mans"
+
+# game/definitions.rpy:223
+msgid "Force Feedback"
+msgstr "Retroalimentació de forces"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao finds out that Shizune is going to visit her family, and manages to "
+"come along."
+msgstr "En Hisao descobreix que la Shizune visitarà la seva família, i s'espavila per acompanyar-la."
+
+# game/definitions.rpy:223
+msgid "United Nations"
+msgstr "Nacions Unides"
+
+# game/definitions.rpy:223
+msgid ""
+"The trip to Shizune's house, meeting her little brother, and a sudden "
+"fishing contest."
+msgstr "El viatge a la casa de la Shizune, on coneix al seu germà petit, i fan un concurs de pesca inesperat."
+
+# game/definitions.rpy:223
+msgid "Use-Mention Distinction"
+msgstr "Distinció entre ús i menció"
+
+# game/definitions.rpy:223
+msgid ""
+"Hideaki tries to entertain Hisao for a day, meeting with little success."
+msgstr "En Hideaki intenta entretenir en Hisao durant el dia, però no se'n surt gaire."
+
+# game/definitions.rpy:223
+msgid "Family Plot"
+msgstr "Trama familiar"
+
+# game/definitions.rpy:223
+msgid "Our trio meets Shizune's father and immediately beats a hasty retreat."
+msgstr "El nostre trio es troba amb el pare de la Shizune i immediatament fuig."
+
+# game/definitions.rpy:223
+msgid "Pangrammatic Window"
+msgstr "Finestra amb pangrama"
+
+# game/definitions.rpy:223
+msgid ""
+"A request from Hideaki to learn sign language unexpectedly escalates into a "
+"shouting match with Jigoro."
+msgstr "La petició d'en Hideaki d'aprendre llenguatge de signes es converteix inesperadament en un combat de crits amb en Jigoro."
+
+# game/definitions.rpy:223
+msgid "Closer"
+msgstr "Més a prop"
+
+# game/definitions.rpy:223
+msgid "Shizune and Hisao join together for the first time."
+msgstr "La Shizune i en Hisao s'uneixen per primera vegada."
+
+# game/definitions.rpy:223
+msgid "Confrontation"
+msgstr "Confrontació"
+
+# game/definitions.rpy:223
+msgid ""
+"Jigoro belittles the Student Council and Hisao rises up to the challenge."
+msgstr "En Jigoro menysprea el Consell d'Estudiants i en Hisao accepta el repte."
+
+# game/definitions.rpy:223
+msgid "The Anchor"
+msgstr "L'àncora"
+
+# game/definitions.rpy:223
+msgid ""
+"Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from "
+"Kenji on the finer points of girlfriends."
+msgstr "De tornada al Yamaku. Una carta de l'Iwanako dona peu a un llarg debat d'en Kenji sobre els aspectes més íntims de les xicotes."
+
+# game/definitions.rpy:223
+msgid "Roadmap"
+msgstr "Full de ruta"
+
+# game/definitions.rpy:223
+msgid ""
+"The Student Council worries about their replacement, and Hisao ends up "
+"treating Misha to a parfait somehow."
+msgstr "El Consell d'Estudiants es preocupa pel seu substitut, i en Hisao, d'alguna manera, acaba convidant a la Misha a menjar un parfait."
+
+# game/definitions.rpy:223
+msgid "Acute Triangle"
+msgstr "Triangle agut"
+
+# game/definitions.rpy:223
+msgid ""
+"An afternoon of work with Shizune shows Hisao that something is amiss "
+"between the girls."
+msgstr "Una tarda de feina amb la Shizune mostra a en Hisao que alguna cosa no rutlla entre les noies."
+
+# game/definitions.rpy:223
+msgid "Dewey Decimated"
+msgstr "Aniquilar a Dewey"
+
+# game/definitions.rpy:223
+msgid ""
+"Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes "
+"the attempt meet with mixed success."
+msgstr "La Yuuko aconsegueix que en Hisao vigili la biblioteca per ella. L'arribada d'en Kenji fa que l'intent sigui un èxit a mitges."
+
+# game/definitions.rpy:223
+msgid "Tongue-Tied"
+msgstr "Ni una paraula"
+
+# game/definitions.rpy:223
+msgid ""
+"Misha visits Hisao in his room, and things go in an unexpected direction."
+msgstr "La Misha visita a en Hisao a la seva habitació, i les coses van en una direcció inesperada."
+
+# game/definitions.rpy:223
+msgid "Look Aside"
+msgstr "Mira al costat"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao meets a depressed Misha on the roof. He ends up pushing her and "
+"Shizune together."
+msgstr "En Hisao es troba amb la Misha deprimida al terrat. Acaba reunint-la amb la Shizune."
+
+# game/definitions.rpy:223
+msgid "Look Ahead"
+msgstr "Mira cap endavant"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the "
+"whole council back to work."
+msgstr "En Hisao es troba amb la Misha deprimida al terrat. La Shizune s'uneix a ells i fa que el consell torni a treballar."
+
+# game/definitions.rpy:223
+msgid "Act 4: To My Other Self"
+msgstr "Acte 4: Al meu altre jo"
+
+# game/definitions.rpy:223
+msgid "Grand Strategy"
+msgstr "Gran Estratègia"
+
+# game/definitions.rpy:223
+msgid "Shizune confesses to Hisao some of her goals and failures."
+msgstr "La Shizune confessa a en Hisao alguns dels seus objectius i fracassos."
+
+# game/definitions.rpy:223
+msgid "Off by One"
+msgstr "Per poc"
+
+# game/definitions.rpy:223
+msgid ""
+"A failed attempt to cheer up Misha gets converted into an impromptu date for"
+" Hisao and Shizune."
+msgstr "Un intent fallit d'animar la Misha es converteix en una cita improvisada per a en Hisao i la Shizune."
+
+# game/definitions.rpy:223
+msgid "Invasion"
+msgstr "Invasió"
+
+# game/definitions.rpy:223
+msgid ""
+"Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
+msgstr "En Jigoro i en Hideaki fan una visita inesperada i una mica desagradable a la Shizune."
+
+# game/definitions.rpy:223
+msgid "Parfait"
+msgstr "Parfait"
+
+# game/definitions.rpy:223
+msgid ""
+"Hisao and Shizune stalk Misha. Hisao finally manages to corner her and "
+"discuss things properly."
+msgstr "En Hisao i la Shizune persegueixen a la Misha. En Hisao finalment aconsegueix arraconar-la i discutir les coses amb calma."
+
+# game/definitions.rpy:223
+msgid "The Summit"
+msgstr "La cimera"
+
+# game/definitions.rpy:223
+msgid ""
+"Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
+msgstr "En Kenji i la Shizune es troben a l'habitació d'en Hisao. Miraculosament, res explota."
+
+# game/definitions.rpy:223
+msgid "Succession"
+msgstr "Successió"
+
+# game/definitions.rpy:223
+msgid ""
+"The current Student Council shapes up their successors before engaging in "
+"“extracurricular activities.”"
+msgstr "L'actual Consell d'Estudiants dona forma als seus successors abans de participar en “activitats extraescolars.”"
+
+# game/definitions.rpy:223
+msgid "Sneaking Mission"
+msgstr "Missió secreta"
+
+# game/definitions.rpy:223
+msgid ""
+"The show of Misha's determination spurs Shizune to set her sights on greater"
+" things."
+msgstr "La mostra de determinació de la Misha impulsa a la Shizune a fixar-se un objectiu més alt."
+
+# game/definitions.rpy:223
+msgid "Infinity"
+msgstr "Infinit"
+
+# game/definitions.rpy:223
+msgid ""
+"Our trio renews their friendship, with their graduation looming close ahead."
+msgstr "El nostre trio renova la seva amistat, amb la imminent graduació a punt d'arribar."
+
+# game/definitions.rpy:223
+msgid "Present Tense"
+msgstr "Temps de present"
+
+# game/definitions.rpy:223
+msgid "Hisao stumbles into Lilly at lunch, and the two talk about Shizune."
+msgstr "En Hisao es troba amb la Lilly a l'hora de dinar, i tots dos parlen de la Shizune."
+
+# game/definitions.rpy:223
+msgid "Spiral"
+msgstr "Espiral"
+
+# game/definitions.rpy:223
+msgid "Runaround, stonewalling, and Kenji nighttime ambush."
+msgstr "Excuses, evasives i una emboscada nocturna d'en Kenji."
+
+# game/definitions.rpy:223
+msgid "Terminal"
+msgstr "Terminal"
+
+# game/definitions.rpy:223
+msgid "An early-morning talk with Shizune in the silent school."
+msgstr "Una conversa amb la Shizune aviat al matí a l'escola en silenci."
+
+# game/definitions.rpy:601
+msgid "“"
+msgstr "“"
+
+# game/definitions.rpy:601
+msgid "”"
+msgstr "”"
+
+# game/definitions.rpy:604
+msgid "Hisao"
+msgstr "En Hisao"
+
+# game/definitions.rpy:610
+msgid "Misha"
+msgstr "La Misha"
+
+# game/definitions.rpy:611
+msgid "Kenji"
+msgstr "En Kenji"
+
+# game/definitions.rpy:612
+msgid "Mutou"
+msgstr "En Mutou"
+
+# game/definitions.rpy:613
+msgid "Nurse"
+msgstr "La infermera"
+
+# game/definitions.rpy:614
+msgid "Nomiya"
+msgstr "En Nomiya"
+
+# game/definitions.rpy:615
+msgid "Yuuko"
+msgstr "La Yuuko"
+
+# game/definitions.rpy:616
+msgid "Sae"
+msgstr "La Sae"
+
+# game/definitions.rpy:617
+msgid "Akira"
+msgstr "L'Akira"
+
+# game/definitions.rpy:618
+msgid "Hideaki"
+msgstr "En Hideaki"
+
+# game/definitions.rpy:619
+msgid "Jigoro"
+msgstr "En Jigoro"
+
+# game/definitions.rpy:620
+msgid "Meiko"
+msgstr "La Meiko"
+
+# game/definitions.rpy:621
+msgid "Shopkeep"
+msgstr "El botiguer"
+
+# game/definitions.rpy:622
+msgid "Miki"
+msgstr "La Miki"
+
+# game/definitions.rpy:625
+msgid "{s}Shizune{/s} Misha"
+msgstr "{s}La Shizune{/s} la Misha"
+
+# game/definitions.rpy:632
+msgid "Purple-haired girl"
+msgstr "Noia amb cabells morats"
+
+# game/definitions.rpy:633
+msgid "Twintails girl"
+msgstr "Noia amb cuetes"
+
+# game/definitions.rpy:634
+msgid "Strange girl"
+msgstr "Noia estranya"
+
+# game/definitions.rpy:635
+msgid "Wavy-haired girl"
+msgstr "Noia amb cabells ondulats"
+
+# game/definitions.rpy:636
+msgid "Laughing girl"
+msgstr "Noia rient"
+
+# game/definitions.rpy:637
+msgid "Bespectacled hallmate"
+msgstr "Company amb ulleres"
+
+# game/definitions.rpy:638
+msgid "Tall man"
+msgstr "Home alt"
+
+# game/definitions.rpy:639
+msgid "Librarian"
+msgstr "Bibliotecària"
+
+# game/definitions.rpy:640
+msgid "Silver-haired man"
+msgstr "Home de cabells platejats"
+
+# game/definitions.rpy:641
+msgid "Gallery owner"
+msgstr "Propietari de la galeria"
+
+# game/definitions.rpy:642
+msgid "Well-dressed person"
+msgstr "Persona ben vestida"
+
+# game/definitions.rpy:643
+msgid "Smiling man"
+msgstr "Home somrient"
+
+# game/definitions.rpy:644
+msgid "Huge man"
+msgstr "Home enorme"
+
+# game/definitions.rpy:645
+msgid "Slim girl"
+msgstr "Noia prima"
+
+# game/definitions.rpy:646
+msgid "Woman with braid"
+msgstr "Dona amb trena"
+
