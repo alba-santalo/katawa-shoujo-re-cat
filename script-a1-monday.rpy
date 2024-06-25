@@ -4,13 +4,13 @@
 translate ca a1_monday_out_cold_99711a67:
 
     # "A light breeze causes the naked branches overhead to rattle like wooden windchimes."
-    "Una suau brisa fa que les branques nues sonin com campanetes de vent de fusta."
+    "Un ventet suau fa que les branques nues que hi ha enlaire sonin com si fossin campanetes de fusta."
 
 # game/script-a1-monday.rpy:15
 translate ca a1_monday_out_cold_0ca9b69a:
 
     # "This is a popular retreat for couples in the summer. The deciduous trees provide a beautiful green canopy, far out of sight of teachers and fellow students."
-    "Aquest és un lloc de retir popular per parelles a l'estiu. Els arbres de fulla caduca ofereixen un preciós dosser verd, lluny de la vista de professors i estudiants."
+    "Aquest és un lloc de retir popular a l'estiu per a parelles. Els arbres de fulla caduca ofereixen un preciós dosser verd, fora de la vista de professors i altres estudiants."
 
 # game/script-a1-monday.rpy:17
 translate ca a1_monday_out_cold_808f86a6:
@@ -22,43 +22,43 @@ translate ca a1_monday_out_cold_808f86a6:
 translate ca a1_monday_out_cold_dff2025d:
 
     # "I breathe into my cupped hands and rub them together furiously to prevent them from numbing in this cold."
-    "Per evitar que les mans se m'entumeixin amb el fred, hi tiro l'alè i me les frego amb força."
+    "Per evitar que les mans se m'entumeixin del fred, els hi tiro l'alè i me les frego amb força."
 
 # game/script-a1-monday.rpy:21
 translate ca a1_monday_out_cold_48c2e508:
 
     # hi "Just how long am I expected to wait out here, anyway? I'm sure the note said 4:00 PM."
-    hi "Però, quant de temps se suposa que m'he d'esperar aquí? N'estic segur que la nota deia a les quatre de la tarda."
+    hi "Però, quant de temps se suposa que m'he d'esperar aquí? N'estic segur que a la nota hi deia a les quatre de la tarda."
 
 # game/script-a1-monday.rpy:23
 translate ca a1_monday_out_cold_d39923ee:
 
     # "Ah yes… the note… slipped between the pages of my math book while I wasn't looking."
-    "Ah, sí… la nota… que m'havien amagat entre les pàgines del llibre de matemàtiques quan no mirava."
+    "Ah, sí… la nota… que m'han deixat d'amagat entre les pàgines del llibre de matemàtiques."
 
 # game/script-a1-monday.rpy:25
 translate ca a1_monday_out_cold_63f623d0:
 
     # "As far as clichés go, I'm more a fan of the letter-in-the-locker, but at least this way shows a bit of initiative."
-    "Posats a anar amb clixés, soc més fan de la clàssica carta a la taquilla, però almenys d'aquesta manera sembla tenir una mica més d'iniciativa."
+    "Posats a fer servir clixés, soc més fan de la típica carta a la taquilla, però en tot cas aquesta manera mostra una mica més d'iniciativa."
 
 # game/script-a1-monday.rpy:27
 translate ca a1_monday_out_cold_e1a8950a:
 
     # "As I ponder the meaning of the note, the snowfall gradually thickens."
-    "Medito el significat de la nota, menter va nevant més i més."
+    "Em pregunto quin deu ser el significat de la nota, mentre cada cop neva més i més."
 
 # game/script-a1-monday.rpy:29
 translate ca a1_monday_out_cold_7413796f:
 
     # "The snowflakes silently falling from the white-painted sky are the only sign of time passing in this stagnant world."
-    "Els flocs de neu que cauen silenciosament del cel pintat de blanc són l'únic senyal del pas del temps en aquest món que sembla haver-se aturat."
+    "Els flocs de neu que cauen silenciosament del cel blanc són l'únic senyal qui es veu del pas del temps en un món que sembla haver-se aturat."
 
 # game/script-a1-monday.rpy:31
 translate ca a1_monday_out_cold_950e1e4b:
 
     # "Their slow descent upon the frozen forest makes it seem like time has slowed to a crawl."
-    "El lent descens que fa sobre el bosc congelat fa que sembli que el temps s'ha ralentitzat."
+    "El seu lent descens sobre el bosc congelat fa que sembli que el temps s'ha alentit."
 
 # game/script-a1-monday.rpy:35
 translate ca a1_monday_out_cold_2eef6555:

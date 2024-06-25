@@ -1,9 +1,9 @@
-#Adapted and fixed by AlbaSB/Adaptat i corregit per AlbaSB
+# TODO: Translation updated at 2024-04-11 17:08
 
 translate ca strings:
 
-    # game/definitions.rpy:115
-    old " (replay)"
+# game/definitions.rpy:115
+
     new " (repetició)"
 
     # game/definitions.rpy:119
@@ -43,7 +43,9 @@ translate ca strings:
     new "Fred a fora"
 
     # game/definitions.rpy:223
-    old "On a cold, snowy day, Hisao's dreams were about to be realized, only to be cut short by a sudden heart attack."
+    old ""
+"On a cold, snowy day, Hisao's dreams were about to be realized, only to be "
+"cut short by a sudden heart attack."
     new "Un dia fred i nevat, els somnis d'en Hisao estaven a punt de fer-se realitat, però van ser interromputs per un atac de cor inesperat."
 
     # game/definitions.rpy:223
@@ -51,7 +53,9 @@ translate ca strings:
     new "Paquet d'en Hisao"
 
     # game/definitions.rpy:223
-    old "Hisao is told about Yamaku Academy, where he will likely spend the rest of his high school days."
+    old ""
+"Hisao is told about Yamaku Academy, where he will likely spend the rest of "
+"his high school days."
     new "En Hisao sent parlar de l'Acadèmia Yamaku, on segurament passarà la resta dels seus dies d'institut."
 
     # game/definitions.rpy:223
@@ -63,7 +67,9 @@ translate ca strings:
     new "El punt de partida"
 
     # game/definitions.rpy:223
-    old "Hisao steps into Yamaku Academy for the first time, and meets his homeroom teacher, Mutou."
+    old ""
+"Hisao steps into Yamaku Academy for the first time, and meets his homeroom "
+"teacher, Mutou."
     new "En Hisao entra a l'Acadèmia Yamaku per primer cop, i coneix el seu tutor, en Mutou."
 
     # game/definitions.rpy:223
@@ -71,7 +77,9 @@ translate ca strings:
     new "Entrada en escena"
 
     # game/definitions.rpy:223
-    old "Introductions to the class, and meeting with the class representative and her interpreter."
+    old ""
+"Introductions to the class, and meeting with the class representative and "
+"her interpreter."
     new "Presentació a la classe, i trobada amb la delegada de classe i la seva intèrpret."
 
     # game/definitions.rpy:223
@@ -79,7 +87,9 @@ translate ca strings:
     new "A la infermeria"
 
     # game/definitions.rpy:223
-    old "Misha and Shizune show Hisao the cafeteria, after which he goes to see the nurse."
+    old ""
+"Misha and Shizune show Hisao the cafeteria, after which he goes to see the "
+"nurse."
     new "La Misha i la Shizune mostren a en Hisao la cafeteria, després va a veure la infermera."
 
     # game/definitions.rpy:223
@@ -87,7 +97,8 @@ translate ca strings:
     new "L'habitació de ningú"
 
     # game/definitions.rpy:223
-    old "Hisao moves into his new room, meeting his hallmate Kenji in the process."
+    old ""
+"Hisao moves into his new room, meeting his hallmate Kenji in the process."
     new "En Hisao es trasllada a la seva nova habitació, i durant el procés coneix en Kenji, el seu veí."
 
     # game/definitions.rpy:223
@@ -95,7 +106,9 @@ translate ca strings:
     new "Conversa banal"
 
     # game/definitions.rpy:223
-    old "Shizune and Misha tell Hisao about the upcoming festival and invite him to lunch."
+    old ""
+"Shizune and Misha tell Hisao about the upcoming festival and invite him to "
+"lunch."
     new "La Shizune i la Misha expliquen coses a en Hisao sobre el pròxim festival i el conviden a dinar."
 
     # game/definitions.rpy:223
@@ -111,7 +124,9 @@ translate ca strings:
     new "Un quasi te acollidor"
 
     # game/definitions.rpy:223
-    old "Looking for the library, Hisao gets lost and finds Lilly in a disused classroom."
+    old ""
+"Looking for the library, Hisao gets lost and finds Lilly in a disused "
+"classroom."
     new "Tot buscant la biblioteca, en Hisao es perd i troba la Lilly dins una aula en desús."
 
     # game/definitions.rpy:223
@@ -119,7 +134,8 @@ translate ca strings:
     new "La biblioteca compartida"
 
     # game/definitions.rpy:223
-    old "Finally finding his way to the library, Hisao meets and scares off Hanako."
+    old ""
+"Finally finding his way to the library, Hisao meets and scares off Hanako."
     new "Finalment, quan troba el seu camí cap a la biblioteca, en Hisao es troba a la Hanako i l'espanta."
 
     # game/definitions.rpy:223
@@ -135,7 +151,9 @@ translate ca strings:
     new "La teoria de l'evolució del dinar"
 
     # game/definitions.rpy:223
-    old "Shizune and Misha badger Hisao into joining the Student Council before discussing lunch."
+    old ""
+"Shizune and Misha badger Hisao into joining the Student Council before "
+"discussing lunch."
     new "La Shizune i la Misha burxen a en Hisao perquè s'uneixi al Consell d'Estudiants abans de parlar del dinar."
 
     # game/definitions.rpy:223
@@ -143,7 +161,9 @@ translate ca strings:
     new "Batzacada breu i brusca"
 
     # game/definitions.rpy:223
-    old "On his way to lunch alongside Misha and Shizune, Hisao collides with Emi in the hallway."
+    old ""
+"On his way to lunch alongside Misha and Shizune, Hisao collides with Emi in "
+"the hallway."
     new "De camí a dinar amb la Misha i la Shizune, en Hisao xoca amb l'Emi pel passadís."
 
     # game/definitions.rpy:223
@@ -151,7 +171,9 @@ translate ca strings:
     new "Una trobada adorable"
 
     # game/definitions.rpy:223
-    old "Hisao collides with a rampaging Emi on his way to lunch with Hanako and Lilly."
+    old ""
+"Hisao collides with a rampaging Emi on his way to lunch with Hanako and "
+"Lilly."
     new "En Hisao xoca amb una Emi salvatge en el seu camí per anar a dinar amb la Hanako i la Lilly."
 
     # game/definitions.rpy:223
@@ -159,7 +181,8 @@ translate ca strings:
     new "Desviament a la vista"
 
     # game/definitions.rpy:223
-    old "Shizune and Misha take Hisao to their favourite teahouse, the Shanghai."
+    old ""
+"Shizune and Misha take Hisao to their favourite teahouse, the Shanghai."
     new "La Shizune i la Misha porten a en Hisao a la seva casa de te preferida, la de Shanghai."
 
     # game/definitions.rpy:223
@@ -175,7 +198,9 @@ translate ca strings:
     new "Enfortir el caràcter"
 
     # game/definitions.rpy:223
-    old "Mutou tries to have a D&M talk with Hisao, but Misha interrupts and puts Hisao to work."
+    old ""
+"Mutou tries to have a D&M talk with Hisao, but Misha interrupts and puts "
+"Hisao to work."
     new "En Mutou intenta tenir una conversa profunda amb en Hisao, però la Misha els interromp i posa a en Hisao a treballar."
 
     # game/definitions.rpy:223
@@ -183,7 +208,8 @@ translate ca strings:
     new "Un dinar privat"
 
     # game/definitions.rpy:223
-    old "Searching for supplies, Hisao happens across a strange girl in the art room."
+    old ""
+"Searching for supplies, Hisao happens across a strange girl in the art room."
     new "Buscant subministraments, en Hisao topa amb una noia estranya a la sala d'art."
 
     # game/definitions.rpy:223
@@ -207,7 +233,9 @@ translate ca strings:
     new "La corredora"
 
     # game/definitions.rpy:223
-    old "When attempting to do some morning exercise, Hisao meets Emi at the running track."
+    old ""
+"When attempting to do some morning exercise, Hisao meets Emi at the running "
+"track."
     new "Quan intenta fer algun exercici matinal, en Hisao es troba amb l'Emi a la pista."
 
     # game/definitions.rpy:223
@@ -231,7 +259,9 @@ translate ca strings:
     new "Prova de competència"
 
     # game/definitions.rpy:223
-    old "Shizune and Misha assault Hisao in an attempt to get him to join the Student Council."
+    old ""
+"Shizune and Misha assault Hisao in an attempt to get him to join the Student"
+" Council."
     new "La Shizune i la Misha assalten en Hisao amb la intenció que s'uneixi al Consell d'Estudiants."
 
     # game/definitions.rpy:223
@@ -251,7 +281,9 @@ translate ca strings:
     new "Pintura per números"
 
     # game/definitions.rpy:223
-    old "Hanako and Hisao lend a hand to Lilly's class by volunteering to help build their stall."
+    old ""
+"Hanako and Hisao lend a hand to Lilly's class by volunteering to help build "
+"their stall."
     new "La Hanako i en Hisao donen un cop de mà a la classe de la Lilly com a voluntaris per ajudar-los a construir la seva parada."
 
     # game/definitions.rpy:223
@@ -259,7 +291,9 @@ translate ca strings:
     new "Coses que pots fer"
 
     # game/definitions.rpy:223
-    old "After escaping from the clutches of Shizune and Misha, Hisao helps out Rin again."
+    old ""
+"After escaping from the clutches of Shizune and Misha, Hisao helps out Rin "
+"again."
     new "Després d'escapar de les urpes de la Shizune i la Misha, en Hisao ajuda de nou a la Rin."
 
     # game/definitions.rpy:223
@@ -307,7 +341,9 @@ translate ca strings:
     new "El dinar no és gratis"
 
     # game/definitions.rpy:223
-    old "Hisao is escorted to the student council office for his first official day there."
+    old ""
+"Hisao is escorted to the student council office for his first official day "
+"there."
     new "Custodien en Hisao fins a la sala del consell estudiantil per al seu primer dia oficial."
 
     # game/definitions.rpy:223
@@ -323,7 +359,8 @@ translate ca strings:
     new "Vigila on trepitges"
 
     # game/definitions.rpy:223
-    old "Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
+    old ""
+"Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
     new "En Hisao i la Lilly van de compres, i en el camí de tornada es troben a la Rin molt confusa."
 
     # game/definitions.rpy:223
@@ -331,7 +368,8 @@ translate ca strings:
     new "Suport"
 
     # game/definitions.rpy:223
-    old "Hisao has his first Saturday lesson, complete with a talking to from Mutou."
+    old ""
+"Hisao has his first Saturday lesson, complete with a talking to from Mutou."
     new "En Hisao té la seva primera classe en un dissabte, amb conversa amb en Mutou inclosa."
 
     # game/definitions.rpy:223
@@ -339,7 +377,9 @@ translate ca strings:
     new "Una estètica"
 
     # game/definitions.rpy:223
-    old "Emi finds Hisao slacking around after class and recruits him to help Rin once again."
+    old ""
+"Emi finds Hisao slacking around after class and recruits him to help Rin "
+"once again."
     new "L'Emi troba a en Hisao gandulejant després de classe i el recluta per ajudar una vegada més a la Rin."
 
     # game/definitions.rpy:223
@@ -387,7 +427,9 @@ translate ca strings:
     new "No perdis la calma"
 
     # game/definitions.rpy:223
-    old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
+    old ""
+"After waking up on the day of the festival, Hisao is greeted by a ranting "
+"Kenji."
     new "Després de despertar-se el dia del festival, en Kenji saluda a en Hisao amb grandiloqüència."
 
     # game/definitions.rpy:223
@@ -395,7 +437,9 @@ translate ca strings:
     new "És Carnestoltes!"
 
     # game/definitions.rpy:223
-    old "Emi catches Hisao eating fried food and makes him accompany her as punishment."
+    old ""
+"Emi catches Hisao eating fried food and makes him accompany her as "
+"punishment."
     new "L'Emi atrapa a en Hisao menjant fregits i fa que l'acompanyi com a càstig."
 
     # game/definitions.rpy:223
@@ -415,7 +459,9 @@ translate ca strings:
     new "Després d'un matí feixuc a la seva parada, en Hisao porta a la Lilly a trobar a la Hanako."
 
     # game/definitions.rpy:223
-    old "Unable to help Lilly at her stall, Hisao searches for Hanako at the festival."
+    old ""
+"Unable to help Lilly at her stall, Hisao searches for Hanako at the "
+"festival."
     new "Incapaç d'ajudar a la Lilly a la seva parada, en Hisao busca la Hanako al festival."
 
     # game/definitions.rpy:223
@@ -423,7 +469,9 @@ translate ca strings:
     new "Moviment"
 
     # game/definitions.rpy:223
-    old "Lilly finishes her duties and treats Hanako and Hisao to tea at the Shanghai."
+    old ""
+"Lilly finishes her duties and treats Hanako and Hisao to tea at the "
+"Shanghai."
     new "La Lilly acaba les seves obligacions i obsequia a la Hanako i en Hisao amb te al Shanghai."
 
     # game/definitions.rpy:223
@@ -439,7 +487,9 @@ translate ca strings:
     new "Tocar fons"
 
     # game/definitions.rpy:223
-    old "Kenji and Hisao share a manly picnic on the roof instead of going to the festival."
+    old ""
+"Kenji and Hisao share a manly picnic on the roof instead of going to the "
+"festival."
     new "En Kenji i en Hisao comparteixen un pícnic d'homes al terrat, en lloc d'anar al festival."
 
     # game/definitions.rpy:223
@@ -463,7 +513,9 @@ translate ca strings:
     new "Núvols, viatges en el temps i tu"
 
     # game/definitions.rpy:223
-    old "Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to come see the track meet."
+    old ""
+"Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to"
+" come see the track meet."
     new "Un altre dinar al terrat amb l'Emi i la Rin. En Hisao promet a l'Emi anar-la a veure a la cursa d'atletisme."
 
     # game/definitions.rpy:223
@@ -471,7 +523,9 @@ translate ca strings:
     new "Preguntes que necessiten resposta!"
 
     # game/definitions.rpy:223
-    old "Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about her relationship with Rin."
+    old ""
+"Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about "
+"her relationship with Rin."
     new "Una conversa que no du enlloc entre l'Emi i en Hisao. En Hisao fa a l'Emi unes quantes preguntes més sobre la seva relació amb la Rin."
 
     # game/definitions.rpy:223
@@ -479,7 +533,9 @@ translate ca strings:
     new "La segona vegada és la pitjor"
 
     # game/definitions.rpy:223
-    old "The second morning run. Hisao is almost dragged kicking and screaming around the track."
+    old ""
+"The second morning run. Hisao is almost dragged kicking and screaming around"
+" the track."
     new "El segon matí que va a córrer. En Hisao gairebé s'arrossega resistint-se i cridant al voltant de la pista."
 
     # game/definitions.rpy:223
@@ -487,7 +543,9 @@ translate ca strings:
     new "Una poma al dia"
 
     # game/definitions.rpy:223
-    old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
+    old ""
+"Hisao pays a visit to the nurse along with Emi, finding out that the two "
+"have known each other for a while."
     new "En Hisao fa una visita a la infermera juntament amb l'Emi, i descobreix que fa temps es van conèixer."
 
     # game/definitions.rpy:223
@@ -495,7 +553,8 @@ translate ca strings:
     new "Cursa d'atletisme"
 
     # game/definitions.rpy:223
-    old "The day of the track meet. Another facet of Emi's personality is revealed."
+    old ""
+"The day of the track meet. Another facet of Emi's personality is revealed."
     new "Arriba el dia de la cursa. Descobreix una altra faceta de la personalitat d'Emi."
 
     # game/definitions.rpy:223
@@ -503,7 +562,9 @@ translate ca strings:
     new "Pren-te aquesta medicina ja"
 
     # game/definitions.rpy:223
-    old "Hisao mentions a pain in his chest during a visit to the nurse and receives a lecture."
+    old ""
+"Hisao mentions a pain in his chest during a visit to the nurse and receives "
+"a lecture."
     new "En Hisao esmenta un dolor al pit durant una visita a la infermera i rep un sermó."
 
     # game/definitions.rpy:223
@@ -511,7 +572,9 @@ translate ca strings:
     new "Pirateria en alta mar"
 
     # game/definitions.rpy:223
-    old "Hisao discusses his future as a pirate with Emi on the rooftop, then a letter from Iwanako spoils his day."
+    old ""
+"Hisao discusses his future as a pirate with Emi on the rooftop, then a "
+"letter from Iwanako spoils his day."
     new "En Hisao discuteix el seu futur com a pirata amb l'Emi al terrat, després una carta de l'Iwanako espatlla el dia."
 
     # game/definitions.rpy:223
@@ -535,7 +598,9 @@ translate ca strings:
     new "Deixar-se anar"
 
     # game/definitions.rpy:223
-    old "A bedside visit for a sick Emi, which quickly changes to something else entirely."
+    old ""
+"A bedside visit for a sick Emi, which quickly changes to something else "
+"entirely."
     new "Una visita a l'Emi malalt, que canvia ràpidament a una altra cosa."
 
     # game/definitions.rpy:223
@@ -543,7 +608,8 @@ translate ca strings:
     new "El primer matí del dia següent"
 
     # game/definitions.rpy:223
-    old "Hisao reminisces about last evening, deciding to do something to help Emi."
+    old ""
+"Hisao reminisces about last evening, deciding to do something to help Emi."
     new "En Hisao recorda l'última nit, i decideix fer alguna cosa per ajudar a l'Emi."
 
     # game/definitions.rpy:223
@@ -571,7 +637,9 @@ translate ca strings:
     new "Definicions"
 
     # game/definitions.rpy:223
-    old "Emi and Hisao attempt another picnic, this time without any intervention from Mother Nature."
+    old ""
+"Emi and Hisao attempt another picnic, this time without any intervention "
+"from Mother Nature."
     new "L'Emi i en Hisao intenten un altre pícnic, aquesta vegada sense cap intervenció de la Mare Naturalesa."
 
     # game/definitions.rpy:223
@@ -579,7 +647,8 @@ translate ca strings:
     new "Rock invisible"
 
     # game/definitions.rpy:223
-    old "Back to the track in the morning, with business as usual… or so it seems."
+    old ""
+"Back to the track in the morning, with business as usual… or so it seems."
     new "De tornada a la pista pel matí, tot com de costum... o això sembla."
 
     # game/definitions.rpy:223
@@ -595,7 +664,9 @@ translate ca strings:
     new "A dalt, a baix i a dalt de nou"
 
     # game/definitions.rpy:223
-    old "A frantic call from Emi brings Hisao to her room, where two surprises await him."
+    old ""
+"A frantic call from Emi brings Hisao to her room, where two surprises await "
+"him."
     new "Una trucada frenètica de l'Emi porta a en Hisao a la seva habitació, on li esperen dues sorpreses."
 
     # game/definitions.rpy:223
@@ -627,7 +698,9 @@ translate ca strings:
     new "Dolor fantasma"
 
     # game/definitions.rpy:223
-    old "Hisao's attempt to show Emi his concern doesn't go nearly as well as he hoped."
+    old ""
+"Hisao's attempt to show Emi his concern doesn't go nearly as well as he "
+"hoped."
     new "L'intent d'en Hisao de mostrar a l'Emi la seva preocupació no va tan bé com esperava."
 
     # game/definitions.rpy:223
@@ -775,7 +848,9 @@ translate ca strings:
     new "Intercanvi equivalent"
 
     # game/definitions.rpy:223
-    old "In return for learning about his heart, Hanako reveals part of her past to Hisao."
+    old ""
+"In return for learning about his heart, Hanako reveals part of her past to "
+"Hisao."
     new "A canvi de saber què li passa al cor, la Hanako revela part del seu passat a en Hisao."
 
     # game/definitions.rpy:223
@@ -787,7 +862,9 @@ translate ca strings:
     new "Invitació"
 
     # game/definitions.rpy:223
-    old "Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's birthday."
+    old ""
+"Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's "
+"birthday."
     new "La Lilly troba a en Hisao netejant la sala del te i li parla de l'aniversari de la Hanako."
 
     # game/definitions.rpy:223
@@ -835,7 +912,9 @@ translate ca strings:
     new "Un any més"
 
     # game/definitions.rpy:223
-    old "Our trio is joined by an unexpected guest as they celebrate Hanako's birthday party."
+    old ""
+"Our trio is joined by an unexpected guest as they celebrate Hanako's "
+"birthday party."
     new "Al nostre trio se li suma un convidat inesperat mentre celebren la festa d'aniversari de la Hanako."
 
     # game/definitions.rpy:223
@@ -871,7 +950,8 @@ translate ca strings:
     new "Falta d'assistència no justificada"
 
     # game/definitions.rpy:223
-    old "Lunch with the Student Council and worry about Hanako shutting herself in."
+    old ""
+"Lunch with the Student Council and worry about Hanako shutting herself in."
     new "Dinar amb el Consell d'Estudiants i preocupat que la Hanako es tanqui."
 
     # game/definitions.rpy:223
@@ -879,7 +959,8 @@ translate ca strings:
     new "Presència llunyana"
 
     # game/definitions.rpy:223
-    old "Hisao phones Lilly for advice after Hanako secludes herself for another day."
+    old ""
+"Hisao phones Lilly for advice after Hanako secludes herself for another day."
     new "En Hisao truca a la Lilly per demanar consell després que la Hanako s'apartés l'altre dia."
 
     # game/definitions.rpy:223
@@ -911,7 +992,8 @@ translate ca strings:
     new "Diligència al Shanghai"
 
     # game/definitions.rpy:223
-    old "Attempting to avoid distractions, Hisao tries studying at the Shanghai."
+    old ""
+"Attempting to avoid distractions, Hisao tries studying at the Shanghai."
     new "Per intentar evitar distraccions, en Hisao es posa a estudiar al Shanghai."
 
     # game/definitions.rpy:223
@@ -919,7 +1001,9 @@ translate ca strings:
     new "El seu passat"
 
     # game/definitions.rpy:223
-    old "In an attempt to come closer to Hanako, Hisao shares a part of his past with her."
+    old ""
+"In an attempt to come closer to Hanako, Hisao shares a part of his past with"
+" her."
     new "En un intent d'acostar-se a la Hanako, en Hisao comparteix una part del seu passat amb ella."
 
     # game/definitions.rpy:223
@@ -967,7 +1051,9 @@ translate ca strings:
     new "Earl Grey"
 
     # game/definitions.rpy:223
-    old "Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering from the day before."
+    old ""
+"Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering"
+" from the day before."
     new "En Hisao comparteix el primer de molts esmorzars amb la Hanako i la Lilly, recuperant-se del dia anterior."
 
     # game/definitions.rpy:223
@@ -975,7 +1061,9 @@ translate ca strings:
     new "Una lliura esterlina"
 
     # game/definitions.rpy:223
-    old "Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and finds out a great deal more."
+    old ""
+"Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and"
+" finds out a great deal more."
     new "En Kenji pregunta sobre la nacionalitat de la Lilly, en Hisao decideix investigar i esbrina molt més."
 
     # game/definitions.rpy:223
@@ -983,7 +1071,9 @@ translate ca strings:
     new "Regals i Presència"
 
     # game/definitions.rpy:223
-    old "While out in search of a present for Hanako, Lilly and Hisao meet Akira and her cousin."
+    old ""
+"While out in search of a present for Hanako, Lilly and Hisao meet Akira and "
+"her cousin."
     new "Mentre busquen un regal per a la Hanako, la Lilly i en Hisao es troben l'Akira i el seu cosí."
 
     # game/definitions.rpy:223
@@ -991,7 +1081,9 @@ translate ca strings:
     new "Objecte per beure no identificat"
 
     # game/definitions.rpy:223
-    old "The trio hold a birthday party for Hanako, interrupted by the surprise appearance of a sibling."
+    old ""
+"The trio hold a birthday party for Hanako, interrupted by the surprise "
+"appearance of a sibling."
     new "El trio celebra una festa d'aniversari per a la Hanako, interromput per l'aparició sorpresa d'un germà."
 
     # game/definitions.rpy:223
@@ -999,7 +1091,9 @@ translate ca strings:
     new "L'endemà"
 
     # game/definitions.rpy:223
-    old "Hisao and Lilly awaken and try to recuperate from the previous evening's events."
+    old ""
+"Hisao and Lilly awaken and try to recuperate from the previous evening's "
+"events."
     new "En Hisao i la Lilly es desperten i intenten recuperar-se dels esdeveniments de la nit anterior."
 
     # game/definitions.rpy:223
@@ -1023,7 +1117,9 @@ translate ca strings:
     new "Bon viatge"
 
     # game/definitions.rpy:223
-    old "Lilly and Akira get seen off as they leave for a trip to their family in Scotland."
+    old ""
+"Lilly and Akira get seen off as they leave for a trip to their family in "
+"Scotland."
     new "Es veu com la Lilly i l'Akira marxen per fer un viatge a Escòcia amb la seva família."
 
     # game/definitions.rpy:223
@@ -1035,7 +1131,9 @@ translate ca strings:
     new "Dia a dia"
 
     # game/definitions.rpy:223
-    old "Hisao idly lets a day without Lilly slip by, having a talk with Mutou about Yamaku."
+    old ""
+"Hisao idly lets a day without Lilly slip by, having a talk with Mutou about "
+"Yamaku."
     new "En Hisao deixa passar un dia sense que la Lilly s'escapi, fent una xerrada amb Mutou sobre el Yamaku."
 
     # game/definitions.rpy:223
@@ -1043,7 +1141,9 @@ translate ca strings:
     new "Un petit desacord"
 
     # game/definitions.rpy:223
-    old "Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako."
+    old ""
+"Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent"
+" Hanako."
     new "En Hisao dina amb en Kenji, i després entrega unes notes a la Hanako que està preocupantment silenciosa."
 
     # game/definitions.rpy:223
@@ -1051,7 +1151,9 @@ translate ca strings:
     new "Discrepància"
 
     # game/definitions.rpy:223
-    old "With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly."
+    old ""
+"With Hanako withdrawing into herself completely, Hisao offers what little "
+"help he can before calling Lilly."
     new "La Hanako es reclou completament en si mateixa, i en Hisao li ofereix la poca ajuda que pot abans de parlar amb la Lilly."
 
     # game/definitions.rpy:223
@@ -1059,7 +1161,9 @@ translate ca strings:
     new "A l'altra punta del món"
 
     # game/definitions.rpy:223
-    old "Hisao's reassured mind begins to wonder about the relationship between he and Lilly."
+    old ""
+"Hisao's reassured mind begins to wonder about the relationship between he "
+"and Lilly."
     new "La ment tranquil·la d'en Hisao comença a preguntar-se quina relació hi ha entre ell i la Lilly."
 
     # game/definitions.rpy:223
@@ -1067,7 +1171,9 @@ translate ca strings:
     new "Renovament"
 
     # game/definitions.rpy:223
-    old "Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from Scotland."
+    old ""
+"Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from "
+"Scotland."
     new "En Hisao, la Hanako i en Hideaki donen la benvinguda a l'Akira i la Lilly després de tornar d'Escòcia."
 
     # game/definitions.rpy:223
@@ -1091,7 +1197,8 @@ translate ca strings:
     new "Crescendo"
 
     # game/definitions.rpy:223
-    old "Lilly's true feelings are told in the endless gold of the wheat fields."
+    old ""
+"Lilly's true feelings are told in the endless gold of the wheat fields."
     new "Els veritables sentiments de la Lilly afloren en un camp de blat que sembla un camp d'or."
 
     # game/definitions.rpy:223
@@ -1107,7 +1214,9 @@ translate ca strings:
     new "Una perspectiva grisa"
 
     # game/definitions.rpy:223
-    old "Confined to the summerhouse, Lilly and Hisao are forced to come to terms with their relationship."
+    old ""
+"Confined to the summerhouse, Lilly and Hisao are forced to come to terms "
+"with their relationship."
     new "Confinats a la casa d'estiueig, la Lilly i en Hisao es veuen forçats a acceptar la seva relació."
 
     # game/definitions.rpy:223
@@ -1115,7 +1224,9 @@ translate ca strings:
     new "Rhapsody in Blue"
 
     # game/definitions.rpy:223
-    old "A bathing Hisao reflects on where he and Lilly are in life, before being joined by someone."
+    old ""
+"A bathing Hisao reflects on where he and Lilly are in life, before being "
+"joined by someone."
     new "Un bany on en Hisao reflexiona sobre en quin punt vital es troben ell i la Lilly, abans que s'hi uneixi algú."
 
     # game/definitions.rpy:223
@@ -1123,7 +1234,8 @@ translate ca strings:
     new "El present fugaç"
 
     # game/definitions.rpy:223
-    old "Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
+    old ""
+"Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
     new "De tornada al Yamaku, en Hisao i la Lilly parlen entre ells."
 
     # game/definitions.rpy:223
@@ -1143,7 +1255,9 @@ translate ca strings:
     new "Pijames i vestits"
 
     # game/definitions.rpy:223
-    old "Settling back into daily life. Akira joins the trio during one of their tea parties."
+    old ""
+"Settling back into daily life. Akira joins the trio during one of their tea "
+"parties."
     new "Tornen a la vida quotidiana. L'Akira s'uneix al trio durant una de les seves festes de te."
 
     # game/definitions.rpy:223
@@ -1159,7 +1273,9 @@ translate ca strings:
     new "D'un costat a l'altre"
 
     # game/definitions.rpy:223
-    old "Hisao and Lilly go on their first date, finding out about each other's pasts."
+    old ""
+"Hisao and Lilly go on their first date, finding out about each other's "
+"pasts."
     new "En Hisao i la Lilly van en la seva primera cita, i descobreixen el passat de l'altre."
 
     # game/definitions.rpy:223
@@ -1175,7 +1291,9 @@ translate ca strings:
     new "Llum apagat"
 
     # game/definitions.rpy:223
-    old "The trio muse on the upcoming holidays, before Hisao experiences sight as Lilly does."
+    old ""
+"The trio muse on the upcoming holidays, before Hisao experiences sight as "
+"Lilly does."
     new "El trio reflexiona sobre les pròximes vacances, abans que en Hisao experimenti com hi veu la Lilly."
 
     # game/definitions.rpy:223
@@ -1215,7 +1333,8 @@ translate ca strings:
     new "Sota un cel de llagrimós"
 
     # game/definitions.rpy:223
-    old "Waking in the hospital ward, Hisao struggles to come to terms with his life."
+    old ""
+"Waking in the hospital ward, Hisao struggles to come to terms with his life."
     new "En Hisao es desperta a la sala de l'hospital, i lluita per adaptar-se a la seva vida."
 
     # game/definitions.rpy:223
@@ -1255,7 +1374,8 @@ translate ca strings:
     new "Estudi en escala de grisos"
 
     # game/definitions.rpy:223
-    old "Rin and Hisao draw portraits of each other at his first art club meeting."
+    old ""
+"Rin and Hisao draw portraits of each other at his first art club meeting."
     new "La Rin i en Hisao dibuixen retrats l'un de l'altre en la seva primera reunió del club d'art."
 
     # game/definitions.rpy:223
@@ -1295,7 +1415,9 @@ translate ca strings:
     new "Públic destinatari"
 
     # game/definitions.rpy:223
-    old "The day of the track meet. Facets of Emi's and Rin's personalities get revealed."
+    old ""
+"The day of the track meet. Facets of Emi's and Rin's personalities get "
+"revealed."
     new "Arriba el dia de la cursa. Es revelen facetes de les personalitats de l'Emi i la Rin."
 
     # game/definitions.rpy:223
@@ -1311,7 +1433,8 @@ translate ca strings:
     new "Sota l'aigua i un auró amb nom"
 
     # game/definitions.rpy:223
-    old "Rin leads Hisao into the woods, where they ponder their immediate future."
+    old ""
+"Rin leads Hisao into the woods, where they ponder their immediate future."
     new "La Rin porta a en Hisao al bosc, on reflexionen sobre el seu futur imminent."
 
     # game/definitions.rpy:223
@@ -1343,7 +1466,8 @@ translate ca strings:
     new "Sis metres més a prop del cel"
 
     # game/definitions.rpy:223
-    old "Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
+    old ""
+"Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
     new "La Rin i en Hisao NO dinen al terrat, perquè clarament falta l'Emi."
 
     # game/definitions.rpy:223
@@ -1551,7 +1675,9 @@ translate ca strings:
     new "Problemes de lògica autoreferencial"
 
     # game/definitions.rpy:223
-    old "Hisao finds Rin in her hiding place, and convinces her to reconcile with Nomiya."
+    old ""
+"Hisao finds Rin in her hiding place, and convinces her to reconcile with "
+"Nomiya."
     new "En Hisao troba la Rin en el seu amagatall, i la convenç per reconciliar-se amb en Nomiya."
 
     # game/definitions.rpy:223
@@ -1615,7 +1741,9 @@ translate ca strings:
     new "Murmuris xinesos"
 
     # game/definitions.rpy:223
-    old "Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into trouble in many forms."
+    old ""
+"Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into "
+"trouble in many forms."
     new "En Kenji obliga a en Hisao a fer-li un favor, però aquest es troba amb tota mena de problemes."
 
     # game/definitions.rpy:223
@@ -1623,7 +1751,9 @@ translate ca strings:
     new "Teoria de jocs avançada"
 
     # game/definitions.rpy:223
-    old "RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new opponent makes her appearance."
+    old ""
+"RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new "
+"opponent makes her appearance."
     new "El RISK ja no és suficient per satisfer la fam de la Shizune. I encara pitjor, apareix un nou oponent."
 
     # game/definitions.rpy:223
@@ -1631,7 +1761,9 @@ translate ca strings:
     new "Pa, paper, tisores"
 
     # game/definitions.rpy:223
-    old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
+    old ""
+"A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an "
+"object of extreme interest."
     new "Una tarda d'oci es torna dramàtica quan de sobte un tros de pa es converteix en un objecte de gran interès."
 
     # game/definitions.rpy:223
@@ -1647,7 +1779,9 @@ translate ca strings:
     new "Primavera en acció"
 
     # game/definitions.rpy:223
-    old "Hisao has to mediate between Lilly and Shizune, but luckily things work out in the end."
+    old ""
+"Hisao has to mediate between Lilly and Shizune, but luckily things work out "
+"in the end."
     new "En Hisao ha d'intercedir entre la Lilly i la Shizune, però, afortunadament, al final les coses funcionen."
 
     # game/definitions.rpy:223
@@ -1655,7 +1789,9 @@ translate ca strings:
     new "Passat imperfectiu"
 
     # game/definitions.rpy:223
-    old "The Student Council reminisces about past years while relaxing at the Shanghai."
+    old ""
+"The Student Council reminisces about past years while relaxing at the "
+"Shanghai."
     new "El Consell d'Estudiants recorda històries antigues dels últims anys mentre es relaxa al Shanghai."
 
     # game/definitions.rpy:223
@@ -1675,7 +1811,9 @@ translate ca strings:
     new "Retroalimentació de forces"
 
     # game/definitions.rpy:223
-    old "Hisao finds out that Shizune is going to visit her family, and manages to come along."
+    old ""
+"Hisao finds out that Shizune is going to visit her family, and manages to "
+"come along."
     new "En Hisao descobreix que la Shizune visitarà la seva família, i s'espavila per acompanyar-la."
 
     # game/definitions.rpy:223
@@ -1683,7 +1821,9 @@ translate ca strings:
     new "Nacions Unides"
 
     # game/definitions.rpy:223
-    old "The trip to Shizune's house, meeting her little brother, and a sudden fishing contest."
+    old ""
+"The trip to Shizune's house, meeting her little brother, and a sudden "
+"fishing contest."
     new "El viatge a la casa de la Shizune, on coneix al seu germà petit, i fan un concurs de pesca inesperat."
 
     # game/definitions.rpy:223
@@ -1691,7 +1831,8 @@ translate ca strings:
     new "Distinció entre ús i menció"
 
     # game/definitions.rpy:223
-    old "Hideaki tries to entertain Hisao for a day, meeting with little success."
+    old ""
+"Hideaki tries to entertain Hisao for a day, meeting with little success."
     new "En Hideaki intenta entretenir en Hisao durant el dia, però no se'n surt gaire."
 
     # game/definitions.rpy:223
@@ -1707,7 +1848,9 @@ translate ca strings:
     new "Finestra amb pangrama"
 
     # game/definitions.rpy:223
-    old "A request from Hideaki to learn sign language unexpectedly escalates into a shouting match with Jigoro."
+    old ""
+"A request from Hideaki to learn sign language unexpectedly escalates into a "
+"shouting match with Jigoro."
     new "La petició d'en Hideaki d'aprendre llenguatge de signes es converteix inesperadament en un combat de crits amb en Jigoro."
 
     # game/definitions.rpy:223
@@ -1723,7 +1866,8 @@ translate ca strings:
     new "Confrontació"
 
     # game/definitions.rpy:223
-    old "Jigoro belittles the Student Council and Hisao rises up to the challenge."
+    old ""
+"Jigoro belittles the Student Council and Hisao rises up to the challenge."
     new "En Jigoro menysprea el Consell d'Estudiants i en Hisao accepta el repte."
 
     # game/definitions.rpy:223
@@ -1731,7 +1875,9 @@ translate ca strings:
     new "L'àncora"
 
     # game/definitions.rpy:223
-    old "Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from Kenji on the finer points of girlfriends."
+    old ""
+"Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from "
+"Kenji on the finer points of girlfriends."
     new "De tornada al Yamaku. Una carta de l'Iwanako dona peu a un llarg debat d'en Kenji sobre els aspectes més íntims de les xicotes."
 
     # game/definitions.rpy:223
@@ -1739,7 +1885,9 @@ translate ca strings:
     new "Full de ruta"
 
     # game/definitions.rpy:223
-    old "The Student Council worries about their replacement, and Hisao ends up treating Misha to a parfait somehow."
+    old ""
+"The Student Council worries about their replacement, and Hisao ends up "
+"treating Misha to a parfait somehow."
     new "El Consell d'Estudiants es preocupa pel seu substitut, i en Hisao, d'alguna manera, acaba convidant a la Misha a menjar un parfait."
 
     # game/definitions.rpy:223
@@ -1747,7 +1895,9 @@ translate ca strings:
     new "Triangle agut"
 
     # game/definitions.rpy:223
-    old "An afternoon of work with Shizune shows Hisao that something is amiss between the girls."
+    old ""
+"An afternoon of work with Shizune shows Hisao that something is amiss "
+"between the girls."
     new "Una tarda de feina amb la Shizune mostra a en Hisao que alguna cosa no rutlla entre les noies."
 
     # game/definitions.rpy:223
@@ -1755,7 +1905,9 @@ translate ca strings:
     new "Aniquilar a Dewey"
 
     # game/definitions.rpy:223
-    old "Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes the attempt meet with mixed success."
+    old ""
+"Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes "
+"the attempt meet with mixed success."
     new "La Yuuko aconsegueix que en Hisao vigili la biblioteca per ella. L'arribada d'en Kenji fa que l'intent sigui un èxit a mitges."
 
     # game/definitions.rpy:223
@@ -1763,7 +1915,8 @@ translate ca strings:
     new "Ni una paraula"
 
     # game/definitions.rpy:223
-    old "Misha visits Hisao in his room, and things go in an unexpected direction."
+    old ""
+"Misha visits Hisao in his room, and things go in an unexpected direction."
     new "La Misha visita a en Hisao a la seva habitació, i les coses van en una direcció inesperada."
 
     # game/definitions.rpy:223
@@ -1771,7 +1924,9 @@ translate ca strings:
     new "Mira al costat"
 
     # game/definitions.rpy:223
-    old "Hisao meets a depressed Misha on the roof. He ends up pushing her and Shizune together."
+    old ""
+"Hisao meets a depressed Misha on the roof. He ends up pushing her and "
+"Shizune together."
     new "En Hisao es troba amb la Misha deprimida al terrat. Acaba reunint-la amb la Shizune."
 
     # game/definitions.rpy:223
@@ -1779,7 +1934,9 @@ translate ca strings:
     new "Mira cap endavant"
 
     # game/definitions.rpy:223
-    old "Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the whole council back to work."
+    old ""
+"Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the "
+"whole council back to work."
     new "En Hisao es troba amb la Misha deprimida al terrat. La Shizune s'uneix a ells i fa que el consell torni a treballar."
 
     # game/definitions.rpy:223
@@ -1799,7 +1956,9 @@ translate ca strings:
     new "Per poc"
 
     # game/definitions.rpy:223
-    old "A failed attempt to cheer up Misha gets converted into an impromptu date for Hisao and Shizune."
+    old ""
+"A failed attempt to cheer up Misha gets converted into an impromptu date for"
+" Hisao and Shizune."
     new "Un intent fallit d'animar la Misha es converteix en una cita improvisada per a en Hisao i la Shizune."
 
     # game/definitions.rpy:223
@@ -1807,7 +1966,8 @@ translate ca strings:
     new "Invasió"
 
     # game/definitions.rpy:223
-    old "Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
+    old ""
+"Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
     new "En Jigoro i en Hideaki fan una visita inesperada i una mica desagradable a la Shizune."
 
     # game/definitions.rpy:223
@@ -1815,7 +1975,9 @@ translate ca strings:
     new "Parfait"
 
     # game/definitions.rpy:223
-    old "Hisao and Shizune stalk Misha. Hisao finally manages to corner her and discuss things properly."
+    old ""
+"Hisao and Shizune stalk Misha. Hisao finally manages to corner her and "
+"discuss things properly."
     new "En Hisao i la Shizune persegueixen a la Misha. En Hisao finalment aconsegueix arraconar-la i discutir les coses amb calma."
 
     # game/definitions.rpy:223
@@ -1823,7 +1985,8 @@ translate ca strings:
     new "La cimera"
 
     # game/definitions.rpy:223
-    old "Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
+    old ""
+"Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
     new "En Kenji i la Shizune es troben a l'habitació d'en Hisao. Miraculosament, res explota."
 
     # game/definitions.rpy:223
@@ -1831,7 +1994,9 @@ translate ca strings:
     new "Successió"
 
     # game/definitions.rpy:223
-    old "The current Student Council shapes up their successors before engaging in “extracurricular activities.”"
+    old ""
+"The current Student Council shapes up their successors before engaging in "
+"“extracurricular activities.”"
     new "L'actual Consell d'Estudiants dona forma als seus successors abans de participar en “activitats extraescolars.”"
 
     # game/definitions.rpy:223
@@ -1839,7 +2004,9 @@ translate ca strings:
     new "Missió secreta"
 
     # game/definitions.rpy:223
-    old "The show of Misha's determination spurs Shizune to set her sights on greater things."
+    old ""
+"The show of Misha's determination spurs Shizune to set her sights on greater"
+" things."
     new "La mostra de determinació de la Misha impulsa a la Shizune a fixar-se un objectiu més alt."
 
     # game/definitions.rpy:223
@@ -1847,7 +2014,8 @@ translate ca strings:
     new "Infinit"
 
     # game/definitions.rpy:223
-    old "Our trio renews their friendship, with their graduation looming close ahead."
+    old ""
+"Our trio renews their friendship, with their graduation looming close ahead."
     new "El nostre trio renova la seva amistat, amb la imminent graduació a punt d'arribar."
 
     # game/definitions.rpy:223
@@ -1884,7 +2052,7 @@ translate ca strings:
 
     # game/definitions.rpy:604
     old "Hisao"
-    new "En Hisao"
+    new "Hisao"
 
     # game/definitions.rpy:610
     old "Misha"

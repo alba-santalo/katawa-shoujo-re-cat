@@ -266,11 +266,3 @@ translate ca strings:
     old "This question will not be shown again after you start playing."
     new "Aquesta pregunta no es mostrarà més després d'iniciar el joc."
 
-    # game/screens.rpy:1059
-    old "Mental health"
-    new "Salut mental"
-
-    # game/screens.rpy:1066
-    old "Skip hurtful adult scenes"
-    new "Omet les escenes adultes que poden fer mal"
-

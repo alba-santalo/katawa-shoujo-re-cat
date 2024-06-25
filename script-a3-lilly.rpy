@@ -4432,7 +4432,7 @@ translate ca a3_lilly_prelude_884fb60d:
 translate ca a3_lilly_prelude_87edf806:
 
     # "I remove my arm from my chest and force myself to begin walking again. It's just a minor heart flutter, so it'll pass like the others."
-    "Em trec el braç del pit i m'obligo a tornar a caminar. Només són unes petites palpitacions, així que ja em passarà com sempre."
+    "Em trec el braç del pit i m'obligo a tornar a caminar. Només són unes palpitacions, així que ja em passarà, com sempre."
 
 # game/script-a3-lilly.rpy:2742
 translate ca a3_lilly_prelude_b1bcbd13:

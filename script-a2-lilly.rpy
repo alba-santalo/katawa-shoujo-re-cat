@@ -2584,7 +2584,7 @@ translate ca a2_lilly_presents_and_presence_303959a8:
 translate ca a2_lilly_presents_and_presence_6fde37da:
 
     # "Grimacing slightly, I close the lid and make my way to the counter with doll and music box in hand."
-    "Faig una ganyota, tanco la tapa i faig camí cap al taulell amb la nina i la capsa de música a la mà."
+    "Faig una ganyota, tanco la tapa i faig camí cap al taulell amb la nina i la capseta de música a la mà."
 
 # game/script-a2-lilly.rpy:1834
 translate ca a2_lilly_presents_and_presence_2ec76fa4:
@@ -4708,7 +4708,7 @@ translate ca a2_lilly_the_day_after_e75e00f7:
 translate ca a2_lilly_the_day_after_bc9cf76f:
 
     # "I'm amused by her look of curiosity when I place the music box into her open palms, her typically delicate way of handling it making it seem as if it were fragile enough to break if breathed on."
-    "Em fa gràcia la cara de curiositat que posa quan li col·loco la capsa de música a les mans, i la manera tan delicada que té de manipular-la fa que sembli que tan fràgil que s'hagi de trencar si li tira l'alè."
+    "Em fa gràcia la cara de curiositat que posa quan li col·loco la capseta de música a les mans, i la manera tan delicada que té de manipular-la fa que sembli que tan fràgil que s'hagi de trencar si li tira l'alè."
 
 # game/script-a2-lilly.rpy:3239
 translate ca a2_lilly_the_day_after_59233d55:
@@ -6034,7 +6034,7 @@ translate ca a2_lilly_a_brief_history_of_thyme_bfcff13a:
 translate ca a2_lilly_a_brief_history_of_thyme_b8c62053:
 
     # li "My my, Hisao, it's good to find that you're eating well."
-    li "Caram, Hisao, m'alegra veure que menges tan bé."
+    li "Caram, Hisao, m'alegra que mengis tan bé."
 
 # game/script-a2-lilly.rpy:4137
 translate ca a2_lilly_a_brief_history_of_thyme_c136f60b:
@@ -8117,9 +8117,9 @@ translate ca a2_lilly_bon_voyage_37ff7772:
 
 # game/script-a2-lilly.rpy:5630
 translate ca a2_lilly_bon_voyage_f507d2d9:
-    #, fuzzy
-    old "[_li_] Thank you. I thought she might be overwhelmed by them."
-    new "[_li_] Gràcies. Pensava que se sentiria aclaparada per tanta gent."
+
+    # li "Thank you. I thought she might be overwhelmed by them."
+    li "Gràcies. Pensava que se sentiria aclaparada per tanta gent."
 
 # game/script-a2-lilly.rpy:5632
 translate ca a2_lilly_bon_voyage_747d3bc8:
